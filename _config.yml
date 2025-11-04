@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Lille, France"
-  employer         : "Red Brick University"
+  employer         : "ULille / LEM - CNRS UMR 9221 and "
   uri              : # URL
   email            : "martin.hulenyi@gmail.com" 
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/martinhulenyi"
+  github           : "martinhulenyi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "@hulenyimartin.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "hulenyimartin.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
