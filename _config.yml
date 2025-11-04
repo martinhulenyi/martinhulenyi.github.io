@@ -1,63 +1,83 @@
-author:
-# Biographic information
-avatar           : "profile.png"
-name             : "Martin Hulényi"
-pronouns         :
-bio              : "PhD candidate in economics"
-location         : "Lille, France"
-employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
-uri              :
-email            : "martin.hulenyi@gmail.com"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Academic websites
-googlescholar    : "https://scholar.google.com/citations?user=Xk7W1hMAAAAJ"
-orcid            : "https://orcid.org/0009-0001-2636-9039"
-scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210162154"
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Martin Hulényi"
+title_separator          : "-"
+name                     : &name "Martin Hulényi"
+description              : &description "PhD candidate in economics"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Martin Hulényi"
+  pronouns         : # example: "she/her"  
+  bio              : "PhD candidate in economics"
+  location         : "Lille, France"
+  employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
+  uri              : # URL
+  email            : "martin.hulenyi@gmail.com" 
+
+  # Academic websites
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=Xk7W1hMAAAAJ"
+  inspire-hep      : # URL
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0001-2636-9039"
+  semantic         : # URL
+  pubmed           : 
+  researchgate     : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210162154"
 
   # Repositories and software development
-github           : "martinhulenyi"
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "martinhulenyi"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-# Social media
-bluesky          : "hulenyimartin.bsky.social"
-linkedin         : "martin-hulényi-b92301185"
-twitter          : "@HulenyiMartin"
-
- # Inactive / unused (keep clean but empty)
-academia         :
-artstation       :
-arxiv            :
-inspire-hep      :
-impactstory      :
-semantic         :
-pubmed           :
-researchgate     :
-kaggle           :
-stackoverflow    :
-bitbucket        :
-codepen          :
-dribbble         :
-facebook         :
-flickr           :
-foursquare       :
-goodreads        :
-google_plus      :
-keybase          :
-instagram        :
-lastfm           :
-mastodon         :
-medium           :
-pinterest        :
-soundcloud       :
-steam            :
-telegram         :
-tumblr           :
-vine             :
-weibo            :
-wikipedia        :
-xing             :
-youtube          :
-zhihu            :
-
+  # Social media
+  artstation       : # Username
+  bluesky          : "hulenyimartin.bsky.social" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "@HulenyiMartin" # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
