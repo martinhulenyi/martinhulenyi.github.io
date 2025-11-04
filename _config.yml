@@ -23,16 +23,17 @@ repository               : "martinhulenyi/martinhulenyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Martin Hulényi"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in economics"
-  location         : "Lille, France"
-  employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
-  uri              : # URL
-  email            : "martin.hulenyi@gmail.com" 
-
-  # Academic websites
+  avatar: "profile.png"
+  name: "Martin Hulényi"
+  pronouns:
+  bio: "PhD candidate in economics"
+  location: "Lille, France"
+  employer: >
+    LEM (Université de Lille)
+    & DAStU (Politecnico Milano)
+  uri:
+  email: "martin.hulenyi@gmail.com"
+ # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Xk7W1hMAAAAJ"
