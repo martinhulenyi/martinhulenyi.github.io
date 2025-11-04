@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Welcome"
+title                    : "Martin Hulényi"
 title_separator          : "-"
 name                     : &name "Martin Hulényi"
 description              : &description "PhD candidate in economics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Martin Hulényi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in economics"
   location         : "Lille, France"
   employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
   uri              : # URL
