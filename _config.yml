@@ -31,30 +31,36 @@ author:
   employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
   uri              : # URL
   email            : "martin.hulenyi@gmail.com" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #active
+   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=Xk7W1hMAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-2636-9039"
-  semantic         : # URL
-  pubmed           : 
-  researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210162154"
 
   # Repositories and software development
+  
+  github           : "martinhulenyi"
+    
+
+  # Social media
+  bluesky          : "hulenyimartin.bsky.social" # Replace this with you Bluesky username
+  linkedin         : "martin-hulényi-b92301185"
+  twitter          : "@HulenyiMartin" # Username for X / Twitter
+#inactive
+ academia         : # URL
+  artstation       : # Username
+
+ arxiv            : # URL - Update with the correct link to your profile
+ inspire-hep      : # URL
+  impactstory      : # URL
+  semantic         : # URL
+  pubmed           : 
+  researchgate     : # URL
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")  
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "martinhulenyi"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  bluesky          : "hulenyimartin.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +69,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +76,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@HulenyiMartin" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -79,6 +83,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
