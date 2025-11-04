@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Martin Hulényi"
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Martin Hulényi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Lille, France"
-  employer         : "ULille / LEM - CNRS UMR 9221 and "
+  employer         : "LEM - CNRS UMR 9221 (Université de Lille) and DAStU (Politecnico Milano)"
   uri              : # URL
   email            : "martin.hulenyi@gmail.com" 
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-2636-9039"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210162154"
 
