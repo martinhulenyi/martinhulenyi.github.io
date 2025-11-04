@@ -1,59 +1,59 @@
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Martin Hulényi"
-  pronouns         :
-  bio              : "PhD candidate in economics"
-  location         : "Lille, France"
-  employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
-  uri              :
-  email            : "martin.hulenyi@gmail.com"
+# Biographic information
+avatar           : "profile.png"
+name             : "Martin Hulényi"
+pronouns         :
+bio              : "PhD candidate in economics"
+location         : "Lille, France"
+employer         : "LEM (Université de Lille) & DAStU (Politecnico Milano)"
+uri              :
+email            : "martin.hulenyi@gmail.com"
 
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=Xk7W1hMAAAAJ"
-  orcid            : "https://orcid.org/0009-0001-2636-9039"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210162154"
+# Academic websites
+googlescholar    : "https://scholar.google.com/citations?user=Xk7W1hMAAAAJ"
+orcid            : "https://orcid.org/0009-0001-2636-9039"
+scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210162154"
 
   # Repositories and software development
-  github           : "martinhulenyi"
+github           : "martinhulenyi"
 
-  # Social media
-  bluesky          : "hulenyimartin.bsky.social"
-  linkedin         : "martin-hulényi-b92301185"
-  twitter          : "@HulenyiMartin"
+# Social media
+bluesky          : "hulenyimartin.bsky.social"
+linkedin         : "martin-hulényi-b92301185"
+twitter          : "@HulenyiMartin"
 
-  # Inactive / unused (keep clean but empty)
-  academia         :
-  artstation       :
-  arxiv            :
-  inspire-hep      :
-  impactstory      :
-  semantic         :
-  pubmed           :
-  researchgate     :
-  kaggle           :
-  stackoverflow    :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
+ # Inactive / unused (keep clean but empty)
+academia         :
+artstation       :
+arxiv            :
+inspire-hep      :
+impactstory      :
+semantic         :
+pubmed           :
+researchgate     :
+kaggle           :
+stackoverflow    :
+bitbucket        :
+codepen          :
+dribbble         :
+facebook         :
+flickr           :
+foursquare       :
+goodreads        :
+google_plus      :
+keybase          :
+instagram        :
+lastfm           :
+mastodon         :
+medium           :
+pinterest        :
+soundcloud       :
+steam            :
+telegram         :
+tumblr           :
+vine             :
+weibo            :
+wikipedia        :
+xing             :
+youtube          :
+zhihu            :
