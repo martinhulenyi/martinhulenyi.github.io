@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-**Current Position**
+[Download my CV (PDF)](https://github.com/martinhulenyi/martinhulenyi.github.io/blob/master/files/cv.pdf)
+
+### **Current Position**
 ======
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies,Politecnico Milano*
@@ -86,4 +88,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
