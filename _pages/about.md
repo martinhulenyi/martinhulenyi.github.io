@@ -10,15 +10,20 @@ Hello and welcome!
 
 I am PhD candidate at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM CNRS UMR 9221), under the supervision of <a href="https://fidrmuc.net" target="_blank" rel="noopener">Jan Fdirmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about European Economic Integration, regional development within the EU and the EU border regions.
 
-Im a also a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico Milano, working on a project about the spatial and territorial effects of E-Commerce with Ilaria Mariotti, Frederica Maria Rossi, Tommaso Cigognetti and Dimitris Manoukas. 
+I am a also a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico Milano, working on a project about the spatial and territorial effects of E-Commerce with Ilaria Mariotti, Frederica Maria Rossi, Tommaso Cigognetti and Dimitris Manoukas. 
+
+Before starting my PhD, I was a policy analyst at the <a href="https://isa.gov.sk/" target="_blank" rel="noopener">Institute for Strategy and Analysis at the Government Office of the Slovak Republic</a>. Among other things, I was part of the team working on the Reports on Productivity and Competitiveness of the Slovak Republic for the years 2019 and 2020. 
+
+My research interests comprise regional and urban economics, policy evaluation, causal inference, political economy and applied econometrics. 
 
 
 
 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!>
+
+<!You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -62,4 +67,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.>
