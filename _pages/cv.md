@@ -76,8 +76,8 @@ redirect_from:
 ## **Skills**
 
 **Mathematical and statistical software:** R (proficient user)STATA (proficient user), Matlab (independent user) and  QGIS (independent user).
-**Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user)
-**Languages:** Slovak (Native), English (C2), German (C1), French (B1+)
+**Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user).
+**Languages:** Slovak (Native), English (C2), German (C1), French (B1+).
 
 ## Publications
 
