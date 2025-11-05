@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/martinhulenyi/martinhulenyi.github.io/raw/main/files/CV_MartinHulenyi.pdf" target="_blank" rel="noopener">
+<a href="https://tinyurl.com/595jpnks" target="_blank" rel="noopener">
   View CV (PDF)
 </a>
 
