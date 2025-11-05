@@ -11,8 +11,8 @@ redirect_from:
 
 [Download my CV (PDF)](https://github.com/martinhulenyi/martinhulenyi.github.io/blob/master/files/cv.pdf)
 
-### **Current Position**
-======
+**Current Position**
+==================
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies,Politecnico Milano*
 * Topic: The evolution of e-commerce in Lombardy
