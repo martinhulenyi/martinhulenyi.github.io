@@ -64,15 +64,16 @@ redirect_from:
 * 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
 * 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
 
-
-Skills
+**Honors and Awards**
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+10/2016 - 3rd place NBS Governor’s Award for an outstanding dissertation or diploma thesis in the area monetary economics, macroeconomics or financial economics for the master thesis “Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis”
+
+
+**Skills**
+======
+**Mathematical and statistical software:** R (proficient user)STATA (proficient user), Matlab (independent user) and  QGIS (independent user).
+**Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user)
+**Languages:** Slovak (Native), English (C2), German (C1), French (B1+)
 
 Publications
 ======
@@ -86,12 +87,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
