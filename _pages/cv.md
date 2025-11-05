@@ -9,11 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Current Position
 ======
-Ph.D in economics, LEM CNRS UMR 9221, Université de Lille  2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+09/2024- Research Fellow, 
+* Department of Architecture and Urban Studies,Politecnico Milano  
+* Topic: The evolution of e-commerce in Lombardy
+* Supervisors: Ilaria Mariotti and Frederica Maria Rossi
+* Collaborators: Tommaso Cigognetti and Dimitris Manoukas
+
+
+
+10/2021- Ph.D Candidate, 
+* LEM CNRS UMR 9221, Université de Lille  
+* Topic: Making Regions Great Again: Winning Big with European Integration 
+* Supervisors: Jan Fdirmuc and Nicolas Debarsy
+
+
 
 Work experience
 ======
