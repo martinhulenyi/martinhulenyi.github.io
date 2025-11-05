@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://tinyurl.com/595jpnks" target="_blank" rel="noopener">
+<a href="https://martinhulenyi.github.io/_pages/cv.pdf" target="_blank" rel="noopener">
   View CV (PDF)
 </a>
 
-**Current Position**
-==================
+## **Current Position**
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies,Politecnico Milano*
 * Topic: The evolution of e-commerce in Lombardy
