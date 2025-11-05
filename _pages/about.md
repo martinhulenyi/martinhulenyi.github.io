@@ -8,8 +8,11 @@ redirect_from:
 ---
 Hello and welcome!
 
-I am PhD candidate at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM CNRS UMR 9221), under the supervision of <a href="https://fidrmuc.net" target="_blank" rel="noopener">Jan Fdirmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>.  
-In my thesis, I 
+I am PhD candidate at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM CNRS UMR 9221), under the supervision of <a href="https://fidrmuc.net" target="_blank" rel="noopener">Jan Fdirmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about European Economic Integration, regional development within the EU and the EU border regions.
+
+Im a also a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico Milano, working on a project about the spatial and territorial effects of E-Commerce with Ilaria Mariotti, Frederica Maria Rossi, Tommaso Cigognetti and Dimitris Manoukas. 
+
+
 
 
 
