@@ -27,8 +27,8 @@ redirect_from:
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Supervisors: Jan Fdirmuc and Nicolas Debarsy
 
-**Teaching Experience**
-======
+## **Teaching Experience**
+
 **02/2024-04/2024 - Teaching Assistant**
 * *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
 * First year MIASH Bachelor Program of Université de Lille
@@ -39,15 +39,15 @@ redirect_from:
 * First year MIASH Bachelor Program of Université de Lille
 * Responsible professor: Quentin David
 
-**Work experience**
-======
+## **Work experience**
+
 **10/2015-09/2021: Senior economic analyst**
 * *Institute for Strategy and Analysis, Government Office of the Slovak Republic*
 * Quantitative analyses assessing the impact of policies
 * Collaboration on the National Productivity Board annual reports
   
-**Education**
-======
+## **Education**
+
 **10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
 * Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
 * Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
@@ -57,8 +57,8 @@ redirect_from:
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
 
 
-**Complementary Education**
-======
+## **Complementary Education**
+
 * 08/2022: Causal Inference Mixtape Workshop (Online)
 * 09/2020: Panel Data Econometrics (CEMFI in Madrid, Spain)
 * 06/2019: Microeconometrics and Policy Evaluation Summer School (Paris School of Economics in Paris, France)
@@ -67,25 +67,25 @@ redirect_from:
 * 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
 * 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
 
-**Honors and Awards**
-======
+## **Honors and Awards**
+
 10/2016 - 3rd place NBS Governor’s Award for an outstanding dissertation or diploma thesis in the area monetary economics, macroeconomics or financial economics for the master thesis “Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis”
 
 
-**Skills**
-======
+## **Skills**
+
 **Mathematical and statistical software:** R (proficient user)STATA (proficient user), Matlab (independent user) and  QGIS (independent user).
 **Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user)
 **Languages:** Slovak (Native), English (C2), German (C1), French (B1+)
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
