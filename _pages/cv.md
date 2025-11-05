@@ -38,11 +38,33 @@ redirect_from:
 
 **Work experience**
 ======
-10/2015-09/2021: Senior economic analyst
+**10/2015-09/2021: Senior economic analyst**
 * *Institute for Strategy and Analysis, Government Office of the Slovak Republic*
 * Quantitative analyses assessing the impact of policies
 * Collaboration on the National Productivity Board annual reports
   
+**Education**
+======
+**10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
+* Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
+* Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
+
+**10/2009-09/2013: Bachelor of Science in Economics**
+* Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
+* Bachelor thesis: The Interregional Economic Development in the Slovak Republic
+
+
+**Complementary Education**
+======
+* 08/2022: Causal Inference Mixtape Workshop (Online)
+* 09/2020: Panel Data Econometrics (CEMFI in Madrid, Spain)
+* 06/2019: Microeconometrics and Policy Evaluation Summer School (Paris School of Economics in Paris, France)
+* 07/2018: ERSA Summer School: Regional Policy - Evaluation Theory and Practice (Ekonomická Univerzita in Bratislava, Slovakia)
+* 07/2017: ERSA Summer School GIS and Regional Science -Theory and Applications (University of the Aegean in Mytilene, Greece)
+* 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
+* 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
+
+
 Skills
 ======
 * Skill 1
