@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)](https://github.com/martinhulenyi/martinhulenyi.github.io/blob/master/files/cv.pdf)
+<a href="https://github.com/martinhulenyi/martinhulenyi.github.io/raw/main/files/CV_MartinHulenyi.pdf" target="_blank" rel="noopener">
+  View CV (PDF)
+</a>
 
 **Current Position**
 ==================
