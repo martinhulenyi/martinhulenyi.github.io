@@ -1,37 +1,44 @@
 ---
 ---
+
 /*
  * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-@import "custom";
-@import "vendor/breakpoint/breakpoint";
 
-@import "themes";
-@import "theme/{{ site.site_theme | default: 'default' | append: '_light' }}";
-@import "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}";
+@import
+    "vendor/breakpoint/breakpoint",
 
-@import "include/mixins";
-@import "vendor/susy/susy";
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-@import "layout/reset";
-@import "layout/base";
+    "include/mixins",
+    "vendor/susy/susy",
 
-@import "include/utilities";
-@import "layout/tables";
-@import "layout/buttons";
-@import "layout/notices";
-@import "layout/masthead";
-@import "layout/navigation";
-@import "layout/footer";
-@import "syntax";
+    "layout/reset",
+    "layout/base",
 
-@import "layout/forms";
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-@import "layout/page";
-@import "layout/archive";
-@import "layout/sidebar";
-@import "layout/json_cv";
+    "layout/forms",
 
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
+
