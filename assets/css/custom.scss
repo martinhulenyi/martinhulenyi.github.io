@@ -1,0 +1,16 @@
+/* Remove sidebar box frame */
+.author__urls-wrapper {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Style affiliation links like normal text links */
+.author__content a {
+  color: inherit !important;
+  text-decoration: underline !important;
+}
+
+.author__content a:hover {
+  color: #4da6ff !important; /* or whatever accent color you like */
+}
+
