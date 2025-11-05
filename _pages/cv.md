@@ -24,24 +24,24 @@ redirect_from:
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Supervisors: Jan Fdirmuc and Nicolas Debarsy
 
-
-
-Work experience
+**Teaching Experience**
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**02/2024-04/2024 - Teaching Assistant**
+* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
+* First year MIASH Bachelor Program of Université de Lille
+* Responsible professor: Quentin David
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**02/2023-04/2023 - Teaching Assistant**
+* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
+* First year MIASH Bachelor Program of Université de Lille
+* Responsible professor: Quentin David
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Work experience**
+======
+10/2015-09/2021: Senior economic analyst
+* *Institute for Strategy and Analysis, Government Office of the Slovak Republic*
+* Quantitative analyses assessing the impact of policies
+* Collaboration on the National Productivity Board annual reports
   
 Skills
 ======
