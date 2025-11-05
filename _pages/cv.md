@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Current Position
+**Current Position**
 ======
-09/2024- Research Fellow, 
+**09/2024- Research Fellow** 
 * Department of Architecture and Urban Studies,Politecnico Milano  
 * Topic: The evolution of e-commerce in Lombardy
 * Supervisors: Ilaria Mariotti and Frederica Maria Rossi
@@ -19,7 +19,7 @@ Current Position
 
 
 
-10/2021- Ph.D Candidate, 
+**10/2021- Ph.D Candidate**
 * LEM CNRS UMR 9221, Université de Lille  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Supervisors: Jan Fdirmuc and Nicolas Debarsy
