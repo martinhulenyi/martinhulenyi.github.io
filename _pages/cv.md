@@ -66,6 +66,7 @@ redirect_from:
 * 07/2017: ERSA Summer School GIS and Regional Science -Theory and Applications (University of the Aegean in Mytilene, Greece)
 * 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
 * 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
+* 09/2011 International Marketing (International Summer University South Eastern Europe in Budva, Montenegro)
 
 ## **Honors and Awards**
 
