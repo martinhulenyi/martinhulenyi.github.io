@@ -25,15 +25,14 @@ author:
   # Biographic information
   avatar: "profile.png"
   name: "Martin Hulényi"
-bio: >
+  bio: >
   PhD candidate in economics<br><br>
   🏛️ <a href="https://lem.univ-lille.fr" target="_blank" rel="noopener">LEM (Université de Lille)</a><br>
   🏛️ <a href="https://www.dastu.polimi.it/" target="_blank" rel="noopener">DAStU (Politecnico Milano)</a><br>
-  📍Lille, France
+  📍Lille, France <br>
 
   uri:
-  email: "martin.hulenyi@gmail.com" 
- 
+  email: "martin.hulenyi@gmail.com"
  # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
