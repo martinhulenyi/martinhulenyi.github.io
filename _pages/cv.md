@@ -57,6 +57,11 @@ redirect_from:
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
 
 
+## Other Academic activities
+* 11/2025: Visiting researcher at the Harriman Institute (Colombia University)
+* 05/2023-05/2024: Co-founder and co-organizser of <a href="https://sites.google.com/view/lem-doctoral-seminar-series/2023-2024" target="_blank" rel="noopener"> LEM Doctoral Seminar </a>
+* 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendel University)
+
 ## **Complementary Education**
 
 * 08/2022: Causal Inference Mixtape Workshop (Online)
@@ -79,12 +84,24 @@ redirect_from:
 * **Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user).
 * **Languages:** Slovak (Native), English (C2), German (C1), French (B1+).
 
-## **Publications**
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+## **Publications**
+# Peer-Reviewd Journals
+* <a href = alpha.sk target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Zajkowska, O. (2024). The Long and Winding Road to find the Impact of EU Funds on Regional Growth: IV and Spatial Analyses. Regional Studies, 58(3), 583–600. </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Sekelský, L., & Zlaczká, V. (2022). EU Funds as a Catalyst of Change for the Slovak healthcare system?. REGION, 9(1), 29–49. </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> Fidrmuc, J., Hulenyi, M., & Tunal\i, . (2019). Can Money Buy EU Love?. European Journal of Political Economy, 60, 101804. </a>
+
+
+# Working papers
+* <a href = alpha.sk> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2023, October). A highway is not a panacea: The impact of a new highway on the local labour market in Slovakia. </a>
+# Policy papers
+* <a href = alpha.sk target="_blank" rel="noopener"> </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> </a>
+* <a href = alpha.sk target="_blank" rel="noopener"> </a>
+
 ## **Talks**
 
   <ul>{% for post in site.talks reversed %}
