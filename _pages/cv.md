@@ -86,26 +86,35 @@ redirect_from:
 
 
 ## **Publications**
-# Peer-Reviewd Journals
+# **Peer-Reviewd Journals**
 * <a href = "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Zajkowska, O. (2024). The Long and Winding Road to find the Impact of EU Funds on Regional Growth: IV and Spatial Analyses. Regional Studies, 58(3), 583–600. </a>
 * <a href = "https://openjournals.wu.ac.at/ojs/index.php/region/article/view/344" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Sekelský, L., & Zlaczká, V. (2022). EU Funds as a Catalyst of Change for the Slovak healthcare system?. REGION, 9(1), 29–49. </a>
-* <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555" target="_blank" rel="noopener"> Fidrmuc, J., Hulenyi, M., & Tunal\i, . (2019). Can Money Buy EU Love?. European Journal of Political Economy, 60, 101804. </a>
+* <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804. </a>
 
 
-# Working papers
+# **Working papers**
+
+# **Other publications** 
 * <a href = "https://isa.gov.sk/wp-content/uploads/2024/10/dialnice.pdf"> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2023). A highway is not a panacea: The impact of a new highway on the local labour market in Slovakia. </a>
+* <a href = "https://www.nbs.sk/_img/documents/_publik_nbs_fsr/biatec/rok2016/06-2016/biatec_6_16_05hulenyi.pdf"> Hulényi, M. Economic Integration of the Visegrád Countries into the European Union. </a>
+
+# **Policy papers**
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/23082021_Report_on_Productivity_and_Competitiveness_2020_FINAL.pdf" target="_blank" rel="noopener"> Gardoňová, K., Hulényi, M., Zavarská, Z., Rybanská, V., Cedzová, N., Dovčík, J., & Zlaczká, V. (2021). Report on Productivity and Competitiveness of the Slovak Republic 2020. </a>
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/7814_report-on-productivity-and-competitiveness-of-the-slovak-republic-npb-isa-final2.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2020). Report on Productivity and Competitiveness of the Slovak Republic 2019.</a>
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/7382.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Lešková, A., & Zlaczká, V. (2018). Mind the Gap: Macroeconomic Analysis of the Investment gap in Slovak regions. </a>
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6842.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., Pastor, D., & Zlaczká, V. (2017). Dopad brexitu na politiku súdržnosti. </a>
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6840.pdf"  target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Rimegová, K. (2017). Hospodárske dosledky TTIP: Prehl'ad literatúry a závery pre Slovensko. </a>
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6839.pdf" target="_blank" rel="noopener">Fidrmuc, J., Hulényi, M., & Rimegová, K. (2017). Economic Consequences of TTIP: A Survey of Literature and Implications for Slovakia. </a>
 
 
-# Policy papers
-* <a href = alpha.sk target="_blank" rel="noopener"> </a>
-* <a href = alpha.sk target="_blank" rel="noopener"> </a>
-* <a href = alpha.sk target="_blank" rel="noopener"> </a>
-* <a href = alpha.sk target="_blank" rel="noopener"> </a>
-* <a href = alpha.sk target="_blank" rel="noopener"> </a>
-
-## **Talks**
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
+## **Presentations**
+* **2025:** RSA annual meeting in Porto,  Economic Research Seminar at Economics University in Bratislava.
+* **2024:** European Public Choice Society Annual Meeting, IOS Regensburg Summer Academy, Slovak Economic Association Meeting, 15th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Doctoral Seminar at LEM in Lille, Spatial Warsaw Seminar at the University of Warsaw, Warsaw Economic Seminar at University of Warsaw.
+* **2023:** WIIW Research Seminar in Vienna, Seminar at LEM in Lille, European Regional Science Association Congress, Slovak Economic Association Meeting. 
+* **2022:** LEM Happy Day in Lille, RGS Doctoral Conference in Economics, European Regional Science Association Congress, Slovak Economic Association Meeting.
+* **2021:** European Public Choice Society Annual Meeting, Slovak Economic Association Meeting.  
+* **2020:** Slovak Economic Association Meeting. 
+* **2019:** Czech Economic Society and Slovak Economic Association Meeting.
+* **2018:** 11th Geoffrey J.D. Hewings Regional Economics Workshop, Slovak Economic Association Meeting.
+* **2017:** European Public Choice Society Annual Meeting, 10th Geoffrey J.D. Hewings Regional Economics Workshop, Slovak Economic Association Meeting.
+* **2016:** European Public Choice Society Annual Meeting, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference
