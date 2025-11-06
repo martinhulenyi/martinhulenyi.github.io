@@ -86,19 +86,19 @@ redirect_from:
 
 
 ## **Publications**
-# **Peer-Reviewd Journals**
+### **Peer-Reviewd Journals**
 * <a href = "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Zajkowska, O. (2024). The Long and Winding Road to find the Impact of EU Funds on Regional Growth: IV and Spatial Analyses. Regional Studies, 58(3), 583–600. </a>
 * <a href = "https://openjournals.wu.ac.at/ojs/index.php/region/article/view/344" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Sekelský, L., & Zlaczká, V. (2022). EU Funds as a Catalyst of Change for the Slovak healthcare system?. REGION, 9(1), 29–49. </a>
 * <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804. </a>
 
 
-# **Working papers**
+### **Working papers**
 
-# **Other publications** 
+### **Other publications** 
 * <a href = "https://isa.gov.sk/wp-content/uploads/2024/10/dialnice.pdf"> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2023). A highway is not a panacea: The impact of a new highway on the local labour market in Slovakia. </a>
 * <a href = "https://www.nbs.sk/_img/documents/_publik_nbs_fsr/biatec/rok2016/06-2016/biatec_6_16_05hulenyi.pdf"> Hulényi, M. Economic Integration of the Visegrád Countries into the European Union. </a>
 
-# **Policy papers**
+### **Policy papers**
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/23082021_Report_on_Productivity_and_Competitiveness_2020_FINAL.pdf" target="_blank" rel="noopener"> Gardoňová, K., Hulényi, M., Zavarská, Z., Rybanská, V., Cedzová, N., Dovčík, J., & Zlaczká, V. (2021). Report on Productivity and Competitiveness of the Slovak Republic 2020. </a>
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/7814_report-on-productivity-and-competitiveness-of-the-slovak-republic-npb-isa-final2.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2020). Report on Productivity and Competitiveness of the Slovak Republic 2019.</a>
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/7382.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Lešková, A., & Zlaczká, V. (2018). Mind the Gap: Macroeconomic Analysis of the Investment gap in Slovak regions. </a>
