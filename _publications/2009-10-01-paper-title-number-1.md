@@ -40,11 +40,6 @@ One paragraph on what the paper asks and why it matters.
 - Alternative outcomes / samples
 - Sensitivity checks
 
-## Materials
-- **Paper:** [Download / link]({{ page.paperurl }})
-- **BibTeX:** [Download BibTeX]({{ page.bibtexurl }})
-- **Slides:** (optional)
-- **Replication code:** (optional GitHub/Zenodo link)
 
 ## Recommended citation
 {{ page.citation }}
