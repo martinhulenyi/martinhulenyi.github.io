@@ -1,14 +1,45 @@
 ---
-title: "Paper Title Number 3"
+title: "EU funds as a catalyst of change for the Slovak healthcare system?"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-07-07
+venue: "Regional Studies"
+paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
+bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
+
+# Shows on the publications OVERVIEW only:
+excerpt: "We contribute to the analysis of the impact of European Union funds on European regional development. We find that the European funds have a significantly positive effect on regional economic growth in the European Union. This result is obtained both with ordinary least squares (OLS), and with two-stage least squares (2SLS) using the presence of environmentally protected areas as an instrument. Furthermore, we find that interregional spillovers are important: a significant part of the favourable effect seems to take place in nearby regions rather than in the recipient region."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+We contribute to the analysis of the impact of European Union funds on European regional development. We find that the European funds have a significantly positive effect on regional economic growth in the European Union. This result is obtained both with ordinary least squares (OLS), and with two-stage least squares (2SLS) using the presence of environmentally protected areas as an instrument. Furthermore, we find that interregional spillovers are important: a significant part of the favourable effect seems to take place in nearby regions rather than in the recipient region.
+
+
+## Research question
+One paragraph on what the paper asks and why it matters.
+
+## Data
+- **Unit of observation:** …
+- **Coverage:** countries/regions, years, sample size
+- **Key variables:** …
+- **Sources:** …
+
+## Methodology
+- **Design / identification:** (e.g., DiD, IV, RDD, panel FE, etc.)
+- **Specification:** brief equation description in words
+- **Key assumptions:** parallel trends / exclusion restriction / etc.
+- **Inference:** clustering level, robustness, etc.
+
+## Results
+- **Main result:** …
+- **Heterogeneity:** (e.g., by region type, time, sector)
+- **Economic magnitude:** interpret effect sizes
+
+<!-- ## Robustness & validation
+- Placebos / pre-trends
+- Alternative outcomes / samples
+- Sensitivity checks -->
+
+
+## Recommended citation
+{{ page.citation }}
