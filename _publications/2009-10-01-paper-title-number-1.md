@@ -2,7 +2,7 @@
 title: "Can money buy EU love?"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-27
 venue: ' European Journal of Political Economy'
