@@ -35,10 +35,10 @@ One paragraph on what the paper asks and why it matters.
 - **Heterogeneity:** (e.g., by region type, time, sector)
 - **Economic magnitude:** interpret effect sizes
 
-## Robustness & validation
+<!-- ## Robustness & validation
 - Placebos / pre-trends
 - Alternative outcomes / samples
-- Sensitivity checks
+- Sensitivity checks -->
 
 
 ## Recommended citation
