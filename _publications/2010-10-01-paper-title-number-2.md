@@ -2,8 +2,8 @@
 title: "EU funds as a catalyst of change for the Slovak healthcare system?"
 collection: publications
 category: manuscripts
-date: 2019-11-27
-venue: "European Journal of Political Economy"
+date: 2022-01-28
+venue: "Region"
 paperurl: "https://openjournals.wu-wien.ac.at/ojs/index.php/region/article/view/344"
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2022.bib"
 
