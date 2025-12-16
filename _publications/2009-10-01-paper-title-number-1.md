@@ -2,13 +2,45 @@
 title: "Can money buy EU love?"
 collection: publications
 category: manuscripts
-#permalink: https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-27
-venue: ' European Journal of Political Economy'
-#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555'
-bibtexurl: 'https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2019.bib'
-citation: 'Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804.'
+venue: "European Journal of Political Economy"
+paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555"
+bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2019.bib"
+
+# Shows on the publications OVERVIEW only:
+excerpt: "Short abstract for the overview (2–4 lines). One or two key findings, one sentence on identification/data."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+## Research question
+One paragraph on what the paper asks and why it matters.
+
+## Data
+- **Unit of observation:** …
+- **Coverage:** countries/regions, years, sample size
+- **Key variables:** …
+- **Sources:** …
+
+## Methodology
+- **Design / identification:** (e.g., DiD, IV, RDD, panel FE, etc.)
+- **Specification:** brief equation description in words
+- **Key assumptions:** parallel trends / exclusion restriction / etc.
+- **Inference:** clustering level, robustness, etc.
+
+## Results
+- **Main result:** …
+- **Heterogeneity:** (e.g., by region type, time, sector)
+- **Economic magnitude:** interpret effect sizes
+
+## Robustness & validation
+- Placebos / pre-trends
+- Alternative outcomes / samples
+- Sensitivity checks
+
+## Materials
+- **Paper:** [Download / link]({{ page.paperurl }})
+- **BibTeX:** [Download BibTeX]({{ page.bibtexurl }})
+- **Slides:** (optional)
+- **Replication code:** (optional GitHub/Zenodo link)
+
+## Recommended citation
+{{ page.citation }}
