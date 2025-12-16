@@ -5,6 +5,7 @@ category: manuscripts
 date: 2022-01-28
 venue: "Region 9(1)"
 paperurl: "https://openjournals.wu-wien.ac.at/ojs/index.php/region/article/view/344"
+permalink: /publication/eu-funds-healthcare/
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2022.bib"
 
 # Shows on the publications OVERVIEW only:
