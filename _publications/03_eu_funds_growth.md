@@ -5,6 +5,7 @@ category: manuscripts
 date: 2023-07-07
 venue: "Regional Studies 58(3)"
 paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
+permalink: /publication/eu-funds-growth/
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
 
 # Shows on the publications OVERVIEW only:
