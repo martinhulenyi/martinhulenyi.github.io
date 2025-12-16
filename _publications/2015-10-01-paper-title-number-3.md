@@ -1,5 +1,5 @@
 ---
-title: "EU funds as a catalyst of change for the Slovak healthcare system?"
+title: "The long and winding road to find the impact of EU funds on regional growth: IV and spatial analyses"
 collection: publications
 category: manuscripts
 date: 2023-07-07
