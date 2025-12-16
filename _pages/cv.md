@@ -20,33 +20,13 @@ redirect_from:
 * Supervisors: Ilaria Mariotti and Frederica Maria Rossi
 * Collaborators: Tommaso Cigognetti and Dimitris Manoukas
 
-
-
+## **Education**
 **10/2021- Ph.D Candidate**
 * *LEM CNRS UMR 9221, Université de Lille*  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Supervisors: Jan Fdirmuc and Nicolas Debarsy
+* Defense date: 04.12.2025 
 
-## **Teaching Experience**
-
-**02/2024-04/2024 - Teaching Assistant**
-* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
-* First year MIASH Bachelor Program of Université de Lille
-* Responsible professor: Quentin David
-
-**02/2023-04/2023 - Teaching Assistant**
-* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
-* First year MIASH Bachelor Program of Université de Lille
-* Responsible professor: Quentin David
-
-## **Work experience**
-
-**10/2015-09/2021: Senior economic analyst**
-* *Institute for Strategy and Analysis, Government Office of the Slovak Republic*
-* Quantitative analyses assessing the impact of policies
-* Collaboration on the National Productivity Board annual reports
-  
-## **Education**
 
 **10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
 * Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
@@ -72,6 +52,28 @@ redirect_from:
 * 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
 * 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
 * 09/2011 International Marketing (International Summer University South Eastern Europe in Budva, Montenegro)
+
+
+
+## **Teaching Experience**
+
+**02/2024-04/2024 - Teaching Assistant**
+* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
+* First year MIASH Bachelor Program of Université de Lille
+* Responsible professor: Quentin David
+
+**02/2023-04/2023 - Teaching Assistant**
+* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
+* First year MIASH Bachelor Program of Université de Lille
+* Responsible professor: Quentin David
+
+## **Work experience**
+
+**10/2015-09/2021: Senior economic analyst**
+* *Institute for Strategy and Analysis, Government Office of the Slovak Republic*
+* Quantitative analyses assessing the impact of policies
+* Collaboration on the National Productivity Board annual reports
+  
 
 ## **Honors and Awards**
 
