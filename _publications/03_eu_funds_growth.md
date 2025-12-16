@@ -3,7 +3,7 @@ title: "The long and winding road to find the impact of EU funds on regional gro
 collection: publications
 category: manuscripts
 date: 2023-07-07
-venue: "Regional Studies"
+venue: "Regional Studies 58(3)"
 paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
 

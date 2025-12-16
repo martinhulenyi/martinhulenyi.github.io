@@ -3,7 +3,7 @@ title: "Can money buy EU love?"
 collection: publications
 category: manuscripts
 date: 2019-11-27
-venue: "European Journal of Political Economy"
+venue: "European Journal of Political Economy (60)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555"
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2019.bib"
 
