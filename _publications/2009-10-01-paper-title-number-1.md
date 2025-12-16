@@ -2,12 +2,12 @@
 title: "Can money buy EU love?"
 collection: publications
 category: manuscripts
-permalink: https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555
+#permalink: https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-27
 venue: ' European Journal of Political Economy'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555'
 bibtexurl: 'https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2019.bib'
 citation: 'Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804.'
 ---
