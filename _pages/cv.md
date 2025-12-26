@@ -16,42 +16,28 @@ redirect_from:
 ## **Current Position**
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies,Politecnico Milano*
-* Topic: The evolution of e-commerce in Lombardy
+* Topic: The evolution of e-commerce in Italy
 * Supervisors: Ilaria Mariotti and Frederica Maria Rossi
 * Collaborators: Tommaso Cigognetti and Dimitris Manoukas
+* Contract valid until June 2026
 
 ## **Education**
 **10/2021- Ph.D Candidate**
 * *LEM CNRS UMR 9221, Université de Lille*  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Supervisors: Jan Fdirmuc and Nicolas Debarsy
-* Defense date: 04.12.2025 
-
+* Defense date: 04.12.2025
+* Jury members: Quentin David, Camelia Turcu, Laurent Weill, Lisa Chauvet and Steven Brakman
 
 **10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
 * Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
 * Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
+* Supervisor: Mikuláš Luptáčik
 
 **10/2009-09/2013: Bachelor of Science in Economics**
 * Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
-
-
-## Other Academic activities
-* 11/2025: Visiting researcher at the Harriman Institute (Colombia University)
-* 05/2023-05/2024: Co-founder and co-organizser of <a href="https://sites.google.com/view/lem-doctoral-seminar-series/2023-2024" target="_blank" rel="noopener"> LEM Doctoral Seminar </a>
-* 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendel University)
-
-## **Complementary Education**
-
-* 08/2022: Causal Inference Mixtape Workshop (Online)
-* 09/2020: Panel Data Econometrics (CEMFI in Madrid, Spain)
-* 06/2019: Microeconometrics and Policy Evaluation Summer School (Paris School of Economics in Paris, France)
-* 07/2018: ERSA Summer School: Regional Policy - Evaluation Theory and Practice (Ekonomická Univerzita in Bratislava, Slovakia)
-* 07/2017: ERSA Summer School GIS and Regional Science -Theory and Applications (University of the Aegean in Mytilene, Greece)
-* 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
-* 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
-* 09/2011 International Marketing (International Summer University South Eastern Europe in Budva, Montenegro)
+* Supervisor: Sascha Sardadvar
 
 
 
@@ -61,6 +47,7 @@ redirect_from:
 * *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
 * First year MIASH Bachelor Program of Université de Lille
 * Responsible professor: Quentin David
+
 
 **02/2023-04/2023 - Teaching Assistant**
 * *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
@@ -74,6 +61,21 @@ redirect_from:
 * Quantitative analyses assessing the impact of policies
 * Collaboration on the National Productivity Board annual reports
   
+## Other Academic activities
+* 11/2025: Visiting researcher at the Harriman Institute (Colombia University); Sponsor: Timothy Frye
+* 05/2023-05/2024: Co-founder and co-organizser of <a href="https://sites.google.com/view/lem-doctoral-seminar-series/2023-2024" target="_blank" rel="noopener"> LEM Doctoral Seminar </a>
+* 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendel University); Sponsor: Svatoplouk Kapounek
+
+## **Complementary Education**
+
+* 08/2022: Causal Inference Mixtape Workshop (Online)
+* 09/2020: Panel Data Econometrics (CEMFI in Madrid, Spain)
+* 06/2019: Microeconometrics and Policy Evaluation Summer School (Paris School of Economics in Paris, France)
+* 07/2018: ERSA Summer School: Regional Policy - Evaluation Theory and Practice (Ekonomická Univerzita in Bratislava, Slovakia)
+* 07/2017: ERSA Summer School GIS and Regional Science -Theory and Applications (University of the Aegean in Mytilene, Greece)
+* 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
+* 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
+* 09/2011 International Marketing (International Summer University South Eastern Europe in Budva, Montenegro)
 
 ## **Honors and Awards**
 
