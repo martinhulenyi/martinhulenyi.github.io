@@ -85,8 +85,8 @@ redirect_from:
 ## **Skills**
 
 * **Mathematical and statistical software:** R (proficient user)STATA (proficient user), Matlab (independent user) and  QGIS (independent user).
-* **Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user).
-* **Languages:** Slovak (Native), English (C2), German (C1), French (B1+).
+* **Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user)
+* **Languages:** Slovak (Native), English (C2), German (C1), French (B1+)
 
 
 ## **Publications**
@@ -112,13 +112,13 @@ redirect_from:
 
 
 ## **Presentations**
-* **2025:** RSA annual meeting in Porto,  Economic Research Seminar at Economics University in Bratislava.
-* **2024:** European Public Choice Society Annual Meeting, IOS Regensburg Summer Academy, Slovak Economic Association Meeting, 15th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Doctoral Seminar at LEM in Lille, Spatial Warsaw Seminar at the University of Warsaw, Warsaw Economic Seminar at University of Warsaw.
-* **2023:** WIIW Research Seminar in Vienna, Seminar at LEM in Lille, European Regional Science Association Congress, Slovak Economic Association Meeting. 
-* **2022:** LEM Happy Day in Lille, RGS Doctoral Conference in Economics, European Regional Science Association Congress, Slovak Economic Association Meeting.
-* **2021:** European Public Choice Society Annual Meeting, Slovak Economic Association Meeting.  
-* **2020:** Slovak Economic Association Meeting. 
-* **2019:** Czech Economic Society and Slovak Economic Association Meeting.
-* **2018:** 11th Geoffrey J.D. Hewings Regional Economics Workshop, Slovak Economic Association Meeting.
-* **2017:** European Public Choice Society Annual Meeting, 10th Geoffrey J.D. Hewings Regional Economics Workshop, Slovak Economic Association Meeting.
-* **2016:** European Public Choice Society Annual Meeting, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference
+* **2025:** RSA annual meeting in Porto,  Economic Research Seminar at Economics University in Bratislava
+* **2024:** European Public Choice Society Annual Meeting in Vienna, IOS Regensburg Summer Academy in Tutzing, Slovak Economic Association Meeting in Bratislava, 15th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Doctoral Seminar at LEM in Lille, Spatial Warsaw Seminar at the University of Warsaw, Warsaw Economic Seminar at University of Warsaw
+* **2023:** WIIW Research Seminar in Vienna, Seminar at LEM in Lille, European Regional Science Association Congress in Alicante, Slovak Economic Association Meeting in Banská Bystrica
+* **2022:** LEM Happy Day in Lille, RGS Doctoral Conference in Economics (online), European Regional Science Association Congress in Pecs, Slovak Economic Association Meeting in Bratislava
+* **2021:** European Public Choice Society Annual Meeting (online) , Slovak Economic Association Meeting in Nitra
+* **2020:** Slovak Economic Association Meeting (online)
+* **2019:** Czech Economic Society and Slovak Economic Association Meeting in Brno
+* **2018:** 11th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Slovak Economic Association Meeting in Bratislava
+* **2017:** European Public Choice Society Annual Meeting in Budapest, 10th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Slovak Economic Association Meeting in Košice
+* **2016:** European Public Choice Society Annual Meeting in Greiburg am Breisgau, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association in Bratislava, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference in Bratislava
