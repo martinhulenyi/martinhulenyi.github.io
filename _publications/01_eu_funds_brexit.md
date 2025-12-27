@@ -37,8 +37,9 @@ One paragraph on what the paper asks and why it matters.
 - **Economic magnitude:** interpret effect sizes
 
 
-![EU Funs per capita in the UK NUTS 2 regions.](/files/eu_funds.gif){ width=400px }
-
+<img src="files/eu_funds.gif"
+     alt="EU Funds per capita 2000–2006"
+     style="width:400px; height:auto;">
 
 
 <!-- ## Robustness & validation
