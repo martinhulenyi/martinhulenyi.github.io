@@ -39,7 +39,7 @@ One paragraph on what the paper asks and why it matters.
 
 <img src="files/eu_funds.gif"
      alt="EU Funds per capita"
-     style="width:1400px; height:auto;">
+     style="width:100%; max-width:100%; height:auto;">
 
 
 <!-- ## Robustness & validation
