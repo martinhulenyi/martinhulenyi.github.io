@@ -22,7 +22,7 @@ redirect_from:
 * Contract valid until June 2026
 
 ## **Education**
-**10/2021- PhD in Economics**
+**10/2021- 12/2025: PhD in Economics**
 * *LEM CNRS UMR 9221, Université de Lille*  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Job market paper:  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements
