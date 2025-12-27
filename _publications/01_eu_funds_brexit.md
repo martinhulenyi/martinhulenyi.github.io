@@ -36,10 +36,7 @@ One paragraph on what the paper asks and why it matters.
 - **Heterogeneity:** (e.g., by region type, time, sector)
 - **Economic magnitude:** interpret effect sizes
 
-```{r, echo=FALSE, out.width="70%", fig.align="center"}
-knitr::include_graphics("files/eu_funds.gif")
-```
-
+![EU Funds per capita](files/eu_funds.gif){width=500px}
 
 <!-- ## Robustness & validation
 - Placebos / pre-trends
