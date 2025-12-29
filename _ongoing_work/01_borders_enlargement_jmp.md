@@ -4,25 +4,26 @@ collection: ongoing_work
 category: manuscripts
 #date: 2019-11-27
 #venue: "European Journal of Political Economy (60)"
-paperurl: "/files/borders_enlargement_jmp.pdf"
+paperurl: "https://martinhulenyi.github.io/_pages/borders_enlargement_jmp.pdf"
 permalink: /publication/borders_enlargement/
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/hulenyi_et_al_2025.bib"
 ---
 
 ## Job market paper ##
 In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess the impact of integration on the border areas. As such, I compare the growth of night-time light emissions in urban municipalities close to the treated borders  to municipalities located  in the interior of the same countries applying staggered differences-in-differences approach. I find a positive average treatment effect for urban municipalities that are part of the 2004 EU enlargement and bordering other  countries of the 2004 expansion cohort. Moreover, my results indicate the  importance of anticipation, as economic activity increased in the 2004 new member states near borders with EU15 before EU accession. The positive impact on the 2004 enlargement also shows the importance of market access. Smaller urban municipalities of the 2007 enlargement display an enhanced economic development in comparison to the hinterland. Also, it seems that proximity to borders made up of mountains or rivers might restrict the positive impact of EU accession for border areas.
----
+
+
 
 ## Abstract
 In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess the impact of integration on the border areas. As such, I compare the growth of night-time light emissions in urban municipalities close to the treated borders  to municipalities located  in the interior of the same countries applying staggered differences-in-differences approach. I find a positive average treatment effect for urban municipalities that are part of the 2004 EU enlargement and bordering other  countries of the 2004 expansion cohort. Moreover, my results indicate the  importance of anticipation, as economic activity increased in the 2004 new member states near borders with EU15 before EU accession. The positive impact on the 2004 enlargement also shows the importance of market access. Smaller urban municipalities of the 2007 enlargement display an enhanced economic development in comparison to the hinterland. Also, it seems that proximity to borders made up of mountains or rivers might restrict the positive impact of EU accession for border areas.
 
 ## Motivation 
-- Borders limit the trade between countries (McCallum, 1995) and development of the areas adjacent to them (Redding and Sturm, 2008, Fantechi and Fratesi, 2022).
-- Removing the barriers to trade results in growth of border areas (Brülhart et al., 2018,Brakman et al., 2012, Mitze and Breidenbach, 2024).
+- Borders limit the trade between countries (McCallum, 1995) and development of the areas adjacent to them (Redding and Sturm, 2008; Fantechi and Fratesi, 2022).
+- Removing the barriers to trade results in growth of border areas (Brülhart et al., 2018; Brakman et al., 2012; Mitze and Breidenbach, 2024).
 
 ## Research question
-- What is the impact of the EU Structural and Investment Funds on the outcome of the Brexit referendum in 2016 and the subsequent 2017 elections?
-
+- Do border urban municipalities benefit more from the Eastern EU enlargements in comparison to urban municipalities in the hinterland?
+- What factors facilitate the benefits of Eastern EU enlargements for urban border municipalities?
 ## Contribution
 - Shedding light into whether benefiting from EU regional policy shapes electoral outcomes regions, especially regarding EU related question
 
