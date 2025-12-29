@@ -1,21 +1,22 @@
 ---
-title: "Can money buy EU love?"
+title: "Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements"
 collection: ongoing_work
 category: manuscripts
-date: 2019-11-27
-venue: "European Journal of Political Economy (60)"
-paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555"
-permalink: /publication/eu-funds-brexit/
-bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2019.bib"
+#date: 2019-11-27
+#venue: "European Journal of Political Economy (60)"
+#paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555"
+permalink: /publication/borders_enlargement/
+pdf: /files/borders_enlargement_jmp.pdf
+bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/hulenyi_et_al_2025.bib"
+jmp: true
 ---
 
-
 # Shows on the publications OVERVIEW only:
-excerpt: "We explore the role played by Cohesion Policy in the Brexit referendum and the subsequent 2017 general election. Although the UK has been a net contributor to the EU, some regions receive significant amounts of regional aid funds. We find that while Cohesion Policy is positively correlated with the remain vote, this relationship is weak. Most of the variation in the remain vote is explained by economic factors. In contrast, there is a robust negative correlation between Cohesion Policy and voter turnout. We estimate that had there not been this negative relationship, some 2 million more voters would have participated in the referendum, which is more than the winning margin between the remain and leave votes. Our analysis of the 2017 election suggests that Conservatives lost and Labour gained votes in the regions that benefited from Cohesion Policy, while remain-supporting regions showed gains for the Liberal Democrats."
+excerpt: "In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess the impact of integration on the border areas. As such, I compare the growth of night-time light emissions in urban municipalities close to the treated borders  to municipalities located  in the interior of the same countries applying staggered differences-in-differences approach. I find a positive average treatment effect for urban municipalities that are part of the 2004 EU enlargement and bordering other  countries of the 2004 expansion cohort. Moreover, my results indicate the  importance of anticipation, as economic activity increased in the 2004 new member states near borders with EU15 before EU accession. The positive impact on the 2004 enlargement also shows the importance of market access. Smaller urban municipalities of the 2007 enlargement display an enhanced economic development in comparison to the hinterland. Also, it seems that proximity to borders made up of mountains or rivers might restrict the positive impact of EU accession for border areas."
 ---
 
 ## Abstract
-We explore the role played by Cohesion Policy in the Brexit referendum and the subsequent 2017 general election. Although the UK has been a net contributor to the EU, some regions receive significant amounts of regional aid funds. We find that while Cohesion Policy is positively correlated with the remain vote, this relationship is weak. Most of the variation in the remain vote is explained by economic factors. In contrast, there is a robust negative correlation between Cohesion Policy and voter turnout. We estimate that had there not been this negative relationship, some 2 million more voters would have participated in the referendum, which is more than the winning margin between the remain and leave votes. Our analysis of the 2017 election suggests that Conservatives lost and Labour gained votes in the regions that benefited from Cohesion Policy, while remain-supporting regions showed gains for the Liberal Democrats.
+"In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess the impact of integration on the border areas. As such, I compare the growth of night-time light emissions in urban municipalities close to the treated borders  to municipalities located  in the interior of the same countries applying staggered differences-in-differences approach. I find a positive average treatment effect for urban municipalities that are part of the 2004 EU enlargement and bordering other  countries of the 2004 expansion cohort. Moreover, my results indicate the  importance of anticipation, as economic activity increased in the 2004 new member states near borders with EU15 before EU accession. The positive impact on the 2004 enlargement also shows the importance of market access. Smaller urban municipalities of the 2007 enlargement display an enhanced economic development in comparison to the hinterland. Also, it seems that proximity to borders made up of mountains or rivers might restrict the positive impact of EU accession for border areas.
 
 ## Motivation 
 - One of the benefits  of EU membership for the UK regions were the European Structural and Investment Funds (Cohesion Policy payments; EU Funds)
