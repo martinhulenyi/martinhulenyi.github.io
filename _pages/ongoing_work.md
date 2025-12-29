@@ -7,6 +7,13 @@ layout: archive
 
 {% include base_path %}
 
-{% for post in site.ongoing_work reversed %}
+{%- assign jmp_items = site.ongoing_work | where: "jmp", true | sort: "date" | reverse -%}
+{%- assign other_items = site.ongoing_work | where_exp: "p", "p.jmp != true" | sort: "date" | reverse -%}
+
+{%- for post in jmp_items -%}
   {% include archive-single.html type="list" %}
-{% endfor %}
+{%- endfor -%}
+
+{%- for post in other_items -%}
+  {% include archive-single.html type="list" %}
+{%- endfor -%}
