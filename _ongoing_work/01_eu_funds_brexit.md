@@ -4,9 +4,8 @@ collection: ongoing_work
 category: manuscripts
 #date: 2019-11-27
 #venue: "European Journal of Political Economy (60)"
-#paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555"
+paperurl: "/files/borders_enlargement_jmp.pdf"
 permalink: /publication/borders_enlargement/
-pdf: /files/borders_enlargement_jmp.pdf
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/hulenyi_et_al_2025.bib"
 jmp: true
 ---
