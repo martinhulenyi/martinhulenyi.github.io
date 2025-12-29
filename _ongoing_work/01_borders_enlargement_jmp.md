@@ -7,7 +7,6 @@ category: manuscripts
 paperurl: "/files/borders_enlargement_jmp.pdf"
 permalink: /publication/borders_enlargement/
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/hulenyi_et_al_2025.bib"
-jmp: true
 ---
 
 ## Job market paper ##
