@@ -29,16 +29,15 @@ In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess
 - Use of state of the art causal inference methods (Callaway and Sant’Anna, 2021) to estimate heterogeneous treatment effects.
 
 ## Empirical strategy
-- Comparison of urban municipalities located in the proximity of the borders (0-25 km) to the ones located in the hinterland (50-100 km)  
-- **Dependent variables**: remain votes and voter turnout in the 2016 Brexit referendum (in %), results for the major parties (Conservatives, Labour, Liberal Democrats, UKIP) in the 2017 parliamentary elections  
 - **Method**: Staggered difference-in-differences 
+- Municipalities located less than 25 km away from the border form the treatment group and municipalities located between 50 and 100 km form the control group.
+- **Dependent variables**: growth of an urban municipality’s share of national urban night-time lights  
+- Dataset of 753 urban municipalities from 1992 until 2021.
 
 ## Results
-- positive correlation between the remain votes and the Cohesion Policy payments on the NUTS3 level
-- negative correlation between the EU Funds and the turnout in the 2016 referendum on the NUTS3 level
-- positive correlation between the EU Funds and the votes for the Labour party in the 2017 elections
-- negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections
-
+- Insignificant overall effect, but negative effect for urban NMS municipalities near borders with EU15 and positive impact on both sides of NMS–NMS borders (2004 enlargement).
+- Urban municipalities in 2004 and 2007 NMS near EU15 borders possibly benefited from pre-enlargement liberalization.
+- The impact of enlargement might be also conditional on market access, population size of the urban municipalities and physical geography. 
 
 
 
