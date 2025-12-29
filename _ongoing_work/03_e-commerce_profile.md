@@ -1,32 +1,29 @@
 ---
-title: "The long and winding road to find the impact of EU funds on regional growth: IV and spatial analyses"
+title: "Who bought online during the COVID-19 pandemic? The Italian case study"
 collection: ongoing_work
 category: manuscripts
-date: 2023-07-07
-venue: "Regional Studies 58(3)"
-paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
-permalink: /publication/eu-funds-growth/
-bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
+#date: 2023-07-07
+#venue: "Regional Studies 58(3)"
+#paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
+permalink: /publication/e-commerce_profile/
+#bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
 
 # Shows on the publications OVERVIEW only:
 excerpt: "We contribute to the analysis of the impact of European Union funds on European regional development. We find that the European funds have a significantly positive effect on regional economic growth in the European Union. This result is obtained both with ordinary least squares (OLS), and with two-stage least squares (2SLS) using the presence of environmentally protected areas as an instrument. Furthermore, we find that interregional spillovers are important: a significant part of the favourable effect seems to take place in nearby regions rather than in the recipient region."
 ---
+Co-authored with Tommaso Cigognetti, Ilaria Mariotti and Frederica Rossi
 
 ## Abstract
-We contribute to the analysis of the impact of European Union funds on European regional development. We find that the European funds have a significantly positive effect on regional economic growth in the European Union. This result is obtained both with ordinary least squares (OLS), and with two-stage least squares (2SLS) using the presence of environmentally protected areas as an instrument. Furthermore, we find that interregional spillovers are important: a significant part of the favourable effect seems to take place in nearby regions rather than in the recipient region.
-
+The rise of digitalisation is closely linked to the expansion of B2C e-commerce, a trend significantly accelerated by the restrictions imposed during the COVID-19 pandemic. Indeed, movement limitations prompted a substantial shift toward online shopping, compelling quick adaptionsadaptations from consumers and producers. This transformation has altered regions' and cities' spatial and territorial dynamics, highlighting the need for effective logistics optimisation. To address this, it is crucial to understand the profiles of e-commerce customers. The paper aims to analyse the socio-demographic and economic factors influencing the propensity to shop online in Italy before and during the COVID-19 pandemic. To pursue this aim, data from the ISTAT Aspects of Everyday Life household survey are analyzed through a logit model. Results provide new insights into how the pandemic has reshaped the characteristics of online consumers, offering valuable information and recommendations for policymakers and stakeholders in the e-commerce sector.
 
 ## Motivation 
-- European Structural and Investment Funds (EU Funds) are the primary tool of the EU to improve the regional inequalities within the EU, as not all regions benefit equally from EU integration
+- COVID-19 pandemic resulted in an increase in B2C e-commerce
 - Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017)
 
 ## Research question
-- What is the impact of EU Funds on regional growth?
-- Can we observe spillover effects of EU Funds on other regions?
-
+- 
 ## Contribution
-- Reliance on an original instrumental variable (presence of environmentally protected Natura 2000 sites) as a solution to a likely presence of endogeneity.
-- Estimation of the spillover effects of EU Funds over a longer period and in an enlarged EU
+- Use of official survey (ISTAT Aspects of Everyday Life) to evaluate the socioeconomic determinants of propensity to buy online, and how it changed during COVID-19 pandemic. We also use the survey to evaluate the online spending.
 
 ## Empirical strategy
 - Application of the Solow-Swan growth model (Mankiw et al., 1992, Ertur and Koch, 2007) for 272 NUTS2 regions from 1997 to 2014.
