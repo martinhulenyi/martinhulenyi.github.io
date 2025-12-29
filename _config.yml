@@ -221,7 +221,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  ongoing work:
+  ongoing_work:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -273,7 +273,7 @@ defaults:
   # _ongoing_work
   - scope:
       path: ""
-      type: ongoing work
+      type: ongoing_work
     values:
       layout: single
       author_profile: true
