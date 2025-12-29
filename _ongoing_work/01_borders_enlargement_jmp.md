@@ -39,7 +39,6 @@ In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess
 - positive correlation between the EU Funds and the votes for the Labour party in the 2017 elections
 - negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections
 
-![EU Funds per capita in the UK NUTS 2 regions.](/files/eu_funds.gif)
 
 
 
