@@ -42,34 +42,17 @@ Borders can act as barriers to regional development, limiting the market potenti
 - In new member states, irrespective of the border, level of productivity declines with firm size
 
 ## References
-Brakman, S., Garretsen, H., van Marrewijk, C., and Oumer, A. (2012). The border population effects of eu integration. Journal of Regional Science, 52(1):40–59.
-
-Brülhart, M., Carrère, C., and Robert-Nicoud, F. (2018). Trade and towns: Heterogeneous adjustment to a border shock. Journal of Urban Economics, 105:162–175.
-
-Callaway, B. and Sant’Anna, P. H. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2):200–230.
 
 Capello, R., Caragliu, A., and Fratesi, U. (2018). Breaking down the border: Physical, institutional and cultural obstacles. Economic Geography, 94(5):485–513.
 
-Dall’erba, S. and Fang, F. (2017). A meta-analysis of the estimated impact of Structural Funds on regional growth. Regional Studies, 51.
-
-Ertur, C. and Koch, W. (2007). Growth, technological interdependence and spatial externalities: Theory and evidence. Journal of applied econometrics, 22(6):1033–1062.
-
-Fantechi, F. and Fratesi, U. (2022). Measuring competitiveness differentials inside the same region: A propensity-score matching approach. Social Indicators Research, 173(1):109–135.
 
 Fantechi, F. and Fratesi, U. (2023). Border effects on firm’s productivity: The role of peripherality and territorial capital. Papers in Regional Science, 102(3):483–507.
 
-Li, X., Zhou, Y., Zhao, M., and Zhao, X. (2020). A harmonized global nighttime light dataset 1992–2018. Scientific data, 7(1):168.
-
 Lösch, A. (1944). Die räumliche ordnung der wirtschaft. G. Fischer. 
 
-Mankiw, N. G., Romer, D., and Weil, D. N. (1992). A contribution to the empirics of economic growth. The quarterly journal of economics, 107(2):407–437.
 
-McCallum, J. (1995). National borders matter: Canada-US regional trade patterns. The American Economic Review, 85(3):615–623.
-
-Mitze, T. and Breidenbach, P. (2024). The complex regional effects of macro-institutional change: Evidence from EU enlargement over three decades. Review of World Economics, pages 1–33.
-
-Redding, S. J. and Sturm, D. M. (2008). The costs of remoteness: Evidence from German division and reunification. American Economic Review, 98(5):1766–97.
-
+Santamaría, M., Ventura, J., and Yeşilbayraktar, U. (2023). Exploring european regional trade.
+Journal of International Economics, 146:103747
 
 ## Recommended citation
 {{ page.citation }}
