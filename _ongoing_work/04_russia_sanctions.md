@@ -1,5 +1,5 @@
 ---
-title: "The long and winding road to find the impact of EU funds on regional growth: IV and spatial analyses"
+title: "Russia’s Wartime Economy : Measuring Regional Inequalities from Outer Space"
 collection: ongoing_work
 category: manuscripts
 #date: 2023-07-07
