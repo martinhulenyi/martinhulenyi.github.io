@@ -2,11 +2,11 @@
 title: "The long and winding road to find the impact of EU funds on regional growth: IV and spatial analyses"
 collection: ongoing_work
 category: manuscripts
-date: 2023-07-07
-venue: "Regional Studies 58(3)"
-paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
-permalink: /publication/eu-funds-growth/
-bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
+#date: 2023-07-07
+#venue: "Regional Studies 58(3)"
+#paperurl: "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214"
+permalink: /publication/russia_sanctions/
+#bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
 
 # Shows on the publications OVERVIEW only:
 excerpt: "This study examines the full-scale invasion of Ukraine in February 2022 as a natural experiment to assess the impact of disrupted international market access on regional economic inequalities in Russia. Using nighttime lights data as a proxy for economic activity, we compare cities near the EU and Ukrainian borders, where market access was restricted, to cities in southern Russia, which benefited from reoriented trade networks. Our findings reveal that western border cities experienced economic decline due to reduced trade and industrial disruptions, while southern cities showed relative resilience, likely driven by increased trade with non-Western markets. These results highlight the uneven economic impact of the war, with some regions adapting while others stagnate. This study contributes to the understanding of how geopolitical shocks reshape economic geography, offering insights into the long-term consequences of trade disruptions, sanctions, and shifting supply chains on regional development."
