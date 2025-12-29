@@ -41,5 +41,16 @@ We contribute to the analysis of the impact of European Union funds on European 
 - positive spillover effects of EU Funds on nearby regions, although these effects are less robust.
 - negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections
 
+
+## References
+
+Dall’erba, S. and Fang, F. (2017). A meta-analysis of the estimated impact of Structural Funds on regional growth. Regional Studies, 51.
+
+Ertur, C. and Koch, W. (2007). Growth, technological interdependence and spatial externalities: Theory and evidence. Journal of applied econometrics, 22(6):1033–1062.
+
+Mankiw, N. G., Romer, D., and Weil, D. N. (1992). A contribution to the empirics of economic growth. The quarterly journal of economics, 107(2):407–437.
+
+
+
 ## Recommended citation
 {{ page.citation }}
