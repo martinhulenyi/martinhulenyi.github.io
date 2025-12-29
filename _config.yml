@@ -221,6 +221,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  ongoing work:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
@@ -267,6 +270,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _ongoing_work
+  - scope:
+      path: ""
+      type: ongoing work
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
   # _portfolio
   - scope:
       path: ""
