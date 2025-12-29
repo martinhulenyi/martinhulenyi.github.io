@@ -21,18 +21,17 @@ In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess
 - Borders limit the trade between countries (McCallum, 1995) and development of the areas adjacent to them (Redding and Sturm, 2008; Fantechi and Fratesi, 2022).
 - Removing the barriers to trade results in growth of border areas (Brülhart et al., 2018; Brakman et al., 2012; Mitze and Breidenbach, 2024).
 
-## Research question
+## Research questions
 - Do border urban municipalities benefit more from the Eastern EU enlargements in comparison to urban municipalities in the hinterland?
 - What factors facilitate the benefits of Eastern EU enlargements for urban border municipalities?
-## Contribution
-- Shedding light into whether benefiting from EU regional policy shapes electoral outcomes regions, especially regarding EU related question
+## Contributions
+- Taking a advantage of accessible yearly data on proxy of economic activity (nighttime lights (NTL), (Li et al., 2020)) to combine granular approach (urban municipalities) with spatial broadness (all countries of the Eastern enlargements and their EU15 neighbors).
+- Use of state of the art causal inference methods (Callaway and Sant’Anna, 2021) to estimate heterogeneous treatment effects.
 
 ## Empirical strategy
-- Estimating the correlation between the EU Funds and election outcomes of the 2016 Brexit referendum and the 2017 parliamentary elections for NUTS2 and NUTS3 regions of the UK
+- Comparison of urban municipalities located in the proximity of the borders (0-25 km) to the ones located in the hinterland (50-100 km)  
 - **Dependent variables**: remain votes and voter turnout in the 2016 Brexit referendum (in %), results for the major parties (Conservatives, Labour, Liberal Democrats, UKIP) in the 2017 parliamentary elections  
-- **Variable of interest**: EU Funds per capita in  2007-2013
-- **Control variables**: 2014 regional GDP per capita, 2014 average hourly wage, 2014 employment rate, 2013/2003 migrant growth 
-- **Method**: OLS
+- **Method**: Staggered difference-in-differences 
 
 ## Results
 - positive correlation between the remain votes and the Cohesion Policy payments on the NUTS3 level
