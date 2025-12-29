@@ -1,6 +1,6 @@
 ---
 title: "EU funds as a catalyst of change for the Slovak healthcare system?"
-collection: publications
+collection: ngoing_work
 category: manuscripts
 date: 2022-01-28
 venue: "Region 9(1)"

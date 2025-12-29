@@ -1,6 +1,6 @@
 ---
 title: "Can money buy EU love?"
-collection: publications
+collection: ongoing_work
 category: manuscripts
 date: 2019-11-27
 venue: "European Journal of Political Economy (60)"

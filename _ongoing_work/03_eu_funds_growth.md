@@ -1,6 +1,6 @@
 ---
 title: "The long and winding road to find the impact of EU funds on regional growth: IV and spatial analyses"
-collection: publications
+collection: ongoing_work
 category: manuscripts
 date: 2023-07-07
 venue: "Regional Studies 58(3)"
