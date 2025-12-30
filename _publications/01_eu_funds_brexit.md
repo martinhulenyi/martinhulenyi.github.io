@@ -38,7 +38,7 @@ We explore the role played by Cohesion Policy in the Brexit referendum and the s
 - positive correlation between the EU Funds and the votes for the Labour party in the 2017 elections
 - negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections
 
-![EU Funds per capita in the UK NUTS 2 regions.](/files/eu_funds.gif)
+#![EU Funds per capita in the UK NUTS 2 regions.](/files/eu_funds.gif)
 
 
 
