@@ -26,17 +26,14 @@ The rise of digitalisation is closely linked to the expansion of B2C e-commerce,
 - Use of official survey (ISTAT Aspects of Everyday Life) to evaluate the socioeconomic determinants of propensity to buy online, and how it changed during COVID-19 pandemic. We also use the survey to evaluate the online spending.
 
 ## Empirical strategy
-- Application of the Solow-Swan growth model (Mankiw et al., 1992, Ertur and Koch, 2007) for 272 NUTS2 regions from 1997 to 2014.
-- **Dependent variable**: regional GDP per capita growth rates  
-- **Variable of interest**: EU Funds to regional GDP as the variable of interest (instrumented by the ratio of area of Natura 2000 sites to the area of a NUTS2 region).
-- **Control variables**: lagged level of regional GDP per capita,  population growth rate, ratio gross fixed capital formation to regional GDP, country level composite indicator of the world governance indicators  
+- Profiling the socio-economic characteristics that influence an individual's propensity to purchase goods and services online, how it changed during COVID-19 pandemic and socio-economic determinants of higher spending on online shopping. 
+- **Dependent variable**: if a person bought a product or a service online in the past three months and category of spending on e-commerce.  
+- **Variables of interest**: socio-economic characteristics of an individual (gender, age, household resources, loseness of emnities).
+- **Control variables**: regional fixed effects and municipality size category. 
 - **Method**: Logit and ordinal logit.
 
-## Results
-- positive impact of EU Funds on regional growth rates, with a degree of heterogeneity in the results.
-- when endogeneity is accounted for, the positive impact increases (downward bias of the initial OLS results)
-- positive spillover effects of EU Funds on nearby regions, although these effects are less robust.
-- negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections
-
+## Result
+- Online shopping propensity is higher among younger, wealthier, male individuals and those closer to amenities ; during the pandemic, age and income disparities widened, gender gaps narrowed. 
+- Higher spending was concentrated among men, wealthier, and middle-aged (35–54) consumers.
 ## Recommended citation
 {{ page.citation }}
