@@ -9,8 +9,8 @@ author_profile: true
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
 
-{% if page.years %}
-  <p><strong>Academic years:</strong> {{ page.years }}</p>
-{% endif %}
+  {% if post.years %}
+    <p><strong>Academic years:</strong> {{ post.years }}</p>
+  {% endif %}
+{% endfor %}
