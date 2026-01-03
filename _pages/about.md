@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently on the job market, with my job market paper <a href="https://martinhulenyi.github.io/files/borders_enlargement_jmp.pdf" target="_blank" rel="noopener">  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements </a>. I did my PhD at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM CNRS UMR 9221), under the supervision of <a href="https://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about the regional aspects of  European economic integration, with a focus on EU structural and Investment Funds and EU border regions.
 
-I am PhD candidate at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM CNRS UMR 9221), under the supervision of <a href="https://fidrmuc.net" target="_blank" rel="noopener">Jan Fdirmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about European Economic Integration, regional development within the EU and the EU border regions.
-
-I am a also a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico Milano, working on a project about the spatial and territorial effects of E-Commerce with Ilaria Mariotti, Frederica Maria Rossi, Tommaso Cigognetti and Dimitris Manoukas. 
+Until June 2026, I am a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico Milano, working on a project about the spatial and territorial effects of e-commerce with Ilaria Mariotti, Frederica Rossi, Tommaso Cigognetti and Dimitris Manoukas.
 
 Before starting my PhD, I was a policy analyst at the <a href="https://isa.gov.sk/" target="_blank" rel="noopener">Institute for Strategy and Analysis at the Government Office of the Slovak Republic</a>. Among other things, I was part of the team working on the Reports on Productivity and Competitiveness of the Slovak Republic for the years 2019 and 2020. 
 
