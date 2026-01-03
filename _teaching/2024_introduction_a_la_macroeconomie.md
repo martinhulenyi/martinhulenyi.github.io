@@ -4,7 +4,8 @@ collection: teaching
 type: "Turorial"
 permalink: /teaching/macro
 venue: "First year MIASH Bachelor Program of Université de Lille"
-date: 2023-03-01 and 2024-03-01
+#date: 2023-03-01 and 2024-03-01
+years: "2023, 2024"
 #location: "City, Country"
 ---
 Responsible professor: Quentin David 
