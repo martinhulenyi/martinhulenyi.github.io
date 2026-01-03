@@ -1,5 +1,5 @@
 ---
-title: "Tutorials in introduction to macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)"
+title: "Tutorials in Introduction to Macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)"
 collection: teaching
 type: "Turorial"
 permalink: /teaching/macro
