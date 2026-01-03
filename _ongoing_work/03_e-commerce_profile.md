@@ -17,8 +17,8 @@ Co-authored with Tommaso Cigognetti, Ilaria Mariotti and Frederica Rossi
 The rise of digitalisation is closely linked to the expansion of B2C e-commerce, a trend significantly accelerated by the restrictions imposed during the COVID-19 pandemic. Indeed, movement limitations prompted a substantial shift toward online shopping, compelling quick adaptionsadaptations from consumers and producers. This transformation has altered regions' and cities' spatial and territorial dynamics, highlighting the need for effective logistics optimisation. To address this, it is crucial to understand the profiles of e-commerce customers. The paper aims to analyse the socio-demographic and economic factors influencing the propensity to shop online in Italy before and during the COVID-19 pandemic. To pursue this aim, data from the ISTAT Aspects of Everyday Life household survey are analyzed through a logit model. Results provide new insights into how the pandemic has reshaped the characteristics of online consumers, offering valuable information and recommendations for policymakers and stakeholders in the e-commerce sector.
 
 ## Motivation 
-- COVID-19 pandemic resulted in an increase in B2C e-commerce
-- Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017)
+- COVID-19 pandemic resulted in an increase in B2C e-commerce.
+- Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017).
 
 ## Research question
 - 
@@ -30,7 +30,7 @@ The rise of digitalisation is closely linked to the expansion of B2C e-commerce,
 - **Dependent variable**: regional GDP per capita growth rates  
 - **Variable of interest**: EU Funds to regional GDP as the variable of interest (instrumented by the ratio of area of Natura 2000 sites to the area of a NUTS2 region).
 - **Control variables**: lagged level of regional GDP per capita,  population growth rate, ratio gross fixed capital formation to regional GDP, country level composite indicator of the world governance indicators  
-- **Method**: OLS, 2SLS, SDM
+- **Method**: Logit and ordinal logit.
 
 ## Results
 - positive impact of EU Funds on regional growth rates, with a degree of heterogeneity in the results.
