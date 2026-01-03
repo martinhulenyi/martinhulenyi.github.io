@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Tutorials in introduction to macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Turorial"
+permalink: /teaching/2024-macro
+venue: "First year MIASH Bachelor Program of Université de Lille"
+date: 2024-03-01
+#location: "City, Country"
 ---
+Responsible professor: Quentin David 
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The tutorials tought in French were aimed at introducing students to the fundemental aspects of macroeconomics. 
+The exercise covered four themes:
+- <a href="https://martinhulenyi.github.io/files/01_la_monnaie.pdf" target="_blank" rel="noopener"> Monetary Market </a>
+- <a href="https://martinhulenyi.github.io/files/02_la_demande-globale.pdf" target="_blank" rel="noopener"> Global Demand </a>
+- <a href="https://martinhulenyi.github.io/files/03_islm.pdf" target="_blank" rel="noopener"> ISLM Model </a>l
+- <a href="https://martinhulenyi.github.io/files/04_le_marché_du_travail.pdf" target="_blank" rel="noopener"> Kabour Market </a>
