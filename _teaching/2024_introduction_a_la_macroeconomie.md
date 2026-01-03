@@ -5,10 +5,12 @@ type: "Turorial"
 permalink: /teaching/macro
 venue: "First year MIASH Bachelor Program of Université de Lille"
 #date: 2023-03-01 and 2024-03-01
-years: "2023, 2024"
+#years: "2023, 2024"
 #location: "City, Country"
 ---
 Responsible professor: Quentin David 
+
+Years: 2023 and 2024.
 
 The tutorials tought in French were aimed at introducing students to the fundemental aspects of macroeconomics. 
 
