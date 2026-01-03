@@ -11,6 +11,7 @@ bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github
 # Shows on the publications OVERVIEW only:
 excerpt: "We contribute to the analysis of the impact of European Union funds on European regional development. We find that the European funds have a significantly positive effect on regional economic growth in the European Union. This result is obtained both with ordinary least squares (OLS), and with two-stage least squares (2SLS) using the presence of environmentally protected areas as an instrument. Furthermore, we find that interregional spillovers are important: a significant part of the favourable effect seems to take place in nearby regions rather than in the recipient region."
 ---
+Co-authored with <a href="http://www.fidrmuc.net" target="_blank" rel="noopener"> Jan Fidrmuc </a> and <a href="https://scholar.google.com/citations?user=u44c_k8AAAAJ&hl=pl" target="_blank" rel="noopener"> Olga Zajkowska </a>
 
 ## Abstract
 We contribute to the analysis of the impact of European Union funds on European regional development. We find that the European funds have a significantly positive effect on regional economic growth in the European Union. This result is obtained both with ordinary least squares (OLS), and with two-stage least squares (2SLS) using the presence of environmentally protected areas as an instrument. Furthermore, we find that interregional spillovers are important: a significant part of the favourable effect seems to take place in nearby regions rather than in the recipient region.
