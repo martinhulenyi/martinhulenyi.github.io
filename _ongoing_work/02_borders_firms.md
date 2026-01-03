@@ -11,7 +11,7 @@ permalink: /publication/borders_firms/
 # Shows on the publications OVERVIEW only:
 excerpt: Borders can act as barriers to regional development, limiting the market potential of firms located there. Drawing on location theory \citep{losch1944}, which likens border regions to deserts attracting only smaller firms, this paper investigates the impact of the borders on firms in regions affected by the 2004 EU enlargement. Using firm-level data, we analyze both internalized borders and the external borders of New Member States (NMS) and their EU15 neighbors. Our results suggest lower growth of profitability for firms located in border areas between a NMS country and a EU15 country. We further find heterogeneity across firms sizes and sectors.
 ---
-Co-authored with Nicolas Debarsy and Jan Fidrmuc
+Co-authored with <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a> and <a href="http://www.fidrmuc.net" target="_blank" rel="noopener"> Jan Fidrmuc </a>
 
 ## Abstract
 Borders can act as barriers to regional development, limiting the market potential of firms located there. Drawing on location theory \citep{losch1944}, which likens border regions to deserts attracting only smaller firms, this paper investigates the impact of the borders on firms in regions affected by the 2004 EU enlargement. Using firm-level data, we analyze both internalized borders and the external borders of New Member States (NMS) and their EU15 neighbors. Our results suggest lower growth of profitability for firms located in border areas between a NMS country and a EU15 country. We further find heterogeneity across firms sizes and sectors.
