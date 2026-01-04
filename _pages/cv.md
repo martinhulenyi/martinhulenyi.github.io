@@ -45,13 +45,13 @@ redirect_from:
 ## **Teaching Experience**
 
 **02/2024-04/2024 - Teaching Assistant**
-* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
+* *Tutorials in introduction to macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)*
 * First year MIASH Bachelor Program of Université de Lille
 * Responsible professor: Quentin David
 
 
 **02/2023-04/2023 - Teaching Assistant**
-* *Tutorials in introduction to macroeconimcs (Travaux Dirigés Introduction à la Macroéconomie)*
+* *Tutorials in introduction to macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)*
 * First year MIASH Bachelor Program of Université de Lille
 * Responsible professor: Quentin David
 
@@ -64,7 +64,7 @@ redirect_from:
   
 ## Other Academic activities
 * 11/2025: Visiting researcher at the Harriman Institute (Colombia University); Sponsor: Timothy Frye
-* 05/2023-05/2024: Co-founder and co-organizser of <a href="https://sites.google.com/view/lem-doctoral-seminar-series/2023-2024" target="_blank" rel="noopener"> LEM Doctoral Seminar </a>
+* 05/2023-05/2024: Co-founder and co-organizer of <a href="https://sites.google.com/view/lem-doctoral-seminar-series/2023-2024" target="_blank" rel="noopener"> LEM Doctoral Seminar </a>
 * 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendel University); Sponsor: Svatoplouk Kapounek
 
 ## **Complementary Education**
@@ -91,7 +91,7 @@ redirect_from:
 
 
 ## **Publications**
-### **Peer-Reviewd Journals**
+### **Peer-Reviewed Journals**
 * <a href = "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Zajkowska, O. (2024). The Long and Winding Road to find the Impact of EU Funds on Regional Growth: IV and Spatial Analyses. Regional Studies, 58(3), 583–600. </a>
 * <a href = "https://openjournals.wu.ac.at/ojs/index.php/region/article/view/344" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Sekelský, L., & Zlaczká, V. (2022). EU Funds as a Catalyst of Change for the Slovak healthcare system?. REGION, 9(1), 29–49. </a>
 * <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804. </a>
@@ -122,4 +122,4 @@ redirect_from:
 * **2019:** Czech Economic Society and Slovak Economic Association Meeting in Brno
 * **2018:** 11th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Slovak Economic Association Meeting in Bratislava
 * **2017:** European Public Choice Society Annual Meeting in Budapest, 10th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Slovak Economic Association Meeting in Košice
-* **2016:** European Public Choice Society Annual Meeting in Greiburg am Breisgau, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association in Bratislava, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference in Bratislava
+* **2016:** European Public Choice Society Annual Meeting in Feiburg am Breisgau, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association in Bratislava, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference in Bratislava
