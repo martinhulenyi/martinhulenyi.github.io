@@ -18,7 +18,7 @@ redirect_from:
 * *Department of Architecture and Urban Studies, Politecnico di Milano*
 * Topic: The evolution of e-commerce in Italy
 * Supervisors: <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a> and Federica Rossi
-* Collaborators: <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a> and Dimitris Manoukas
+* Collaborators: <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a> and <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>
 * Contract valid until June 2026
 
 ## **Education**
@@ -26,19 +26,21 @@ redirect_from:
 * *LEM CNRS UMR 9221, Université de Lille*  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Job market paper:  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements
-* Supervisors: Jan Fidrmuc and Nicolas Debarsy
+* Supervisors: <a href="http://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>
 * Defense date: 04.12.2025
-* Jury members: Quentin David, Camelia Turcu, Laurent Weill, Lisa Chauvet and Steven Brakman
+* Jury members: <a href="https://sites.google.com/site/quentinmaxdavid/" target="_blank" rel="noopener">Quentin David</a>, <a href="https://www.leo-univ-orleans.fr/annuaire-membres/44/" target="_blank" rel="noopener">Camélia Turcu</a>, <a href="https://sites.google.com/site/laurentweillstrasbourg/" target="_blank" rel="noopener">Laurent Weill</a>, <a href="https://sites.google.com/site/lisachauvetdial/" target="_blank" rel="noopener">Lisa Chauvet</a> and <a href="https://www.rug.nl/staff/s.brakman/" target="_blank" rel="noopener">Steven Brakman</a>
 
 **10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
 * *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
 * Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
-* Supervisor: Mikuláš Luptáčik
+* Supervisor: <a href="https://www.wu.ac.at/en/economics/people/luptacik-m" target="_blank" rel="noopener"> Mikuláš Luptáčik </a>
+
+
 
 **10/2009-09/2013: Bachelor of Science in Economics**
 * *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
-* Supervisor: Sascha Sardadvar
+* Supervisor: Sascha Sardadvar-
 
 
 
@@ -63,9 +65,9 @@ redirect_from:
 * Collaboration on the National Productivity Board annual reports
   
 ## Other Academic activities
-* 11/2025: Visiting researcher at the Harriman Institute (Colombia University); Sponsor: Timothy Frye
+* 11/2025: Visiting researcher at the Harriman Institute (Colombia University); Sponsor: <a href="https://polisci.columbia.edu/content/timothy-m-frye" target="_blank" rel="noopener">Timothy Frye</a>
 * 05/2023-05/2024: Co-founder and co-organizer of <a href="https://sites.google.com/view/lem-doctoral-seminar-series/2023-2024" target="_blank" rel="noopener"> LEM Doctoral Seminar </a>
-* 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendel University); Sponsor: Svatoplouk Kapounek
+* 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendelova univerzita); Sponsor: <a href="https://www.kapounek.cz/" target="_blank" rel="noopener">Svatoplouk Kapounek</a>
 
 ## **Complementary Education**
 
