@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 <a href="https://martinhulenyi.github.io/files/cv.pdf" target="_blank" rel="noopener">
-  View CV (PDF)
+  View CV as PDF
 </a>
 
 ## **Current Position**
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies,Politecnico Milano*
 * Topic: The evolution of e-commerce in Italy
-* Supervisors: Ilaria Mariotti and Frederica Maria Rossi
+* Supervisors: Ilaria Mariotti and Federica Maria Rossi
 * Collaborators: Tommaso Cigognetti and Dimitris Manoukas
 * Contract valid until June 2026
 
@@ -26,7 +26,7 @@ redirect_from:
 * *LEM CNRS UMR 9221, Université de Lille*  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Job market paper:  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements
-* Supervisors: Jan Fdirmuc and Nicolas Debarsy
+* Supervisors: Jan Fidrmuc and Nicolas Debarsy
 * Defense date: 04.12.2025
 * Jury members: Quentin David, Camelia Turcu, Laurent Weill, Lisa Chauvet and Steven Brakman
 
