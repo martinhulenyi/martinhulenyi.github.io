@@ -29,7 +29,7 @@ In this paper, I use the Eastern EU enlargements as a quasi-experiment to assess
 ## Empirical strategy
 - **Method**: Staggered difference-in-differences. 
 - Municipalities located less than 25 km away from the border form the treatment group and municipalities located between 50 and 100 km form the control group.
-- **Dependent variables**: growth of an urban municipality’s share of national urban night-time lights  
+- **Dependent variables**: Growth of an urban municipality’s share of national urban night-time lights  
 - Dataset of 753 urban municipalities from 1992 until 2021.
 
 ## Results
