@@ -31,7 +31,7 @@ We contribute to the analysis of the impact of European Union funds on European 
 
 ## Empirical strategy
 - Application of the Solow-Swan growth model (Mankiw et al., 1992, Ertur and Koch, 2007) for 272 NUTS2 regions from 1997 to 2014.
-- **Dependent variable**: Regional GDP per capita growth rates.  
+- **Dependent variable**: regional GDP per capita growth rates.  
 - **Variable of interest**: EU Funds to regional GDP as the variable of interest (instrumented by the ratio of area of Natura 2000 sites to the area of a NUTS2 region).
 - **Control variables**: lagged level of regional GDP per capita,  population growth rate, ratio gross fixed capital formation to regional GDP, country level composite indicator of the world governance indicators.  
 - **Method**: OLS, 2SLS, SDM.
