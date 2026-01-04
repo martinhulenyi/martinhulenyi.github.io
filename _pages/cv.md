@@ -15,7 +15,7 @@ redirect_from:
 
 ## **Current Position**
 **09/2024- Research Fellow** 
-* *Department of Architecture and Urban Studies, Politecnico di Milano*
+* *<a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies, Politecnico di Milano</a>*
 * Topic: The evolution of e-commerce in Italy
 * Supervisors: <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a> and <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>
 * Collaborators: <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a> and Dimitris Manoukas
@@ -23,7 +23,7 @@ redirect_from:
 
 ## **Education**
 **10/2021- 12/2025: PhD in Economics**
-* *LEM CNRS UMR 9221, Université de Lille*  
+* *<a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">LEM CNRS UMR 9221, Université de Lille</a>*  
 * Topic: Making Regions Great Again: Winning Big with European Integration 
 * Job market paper:  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements
 * Supervisors: <a href="http://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>
@@ -31,14 +31,14 @@ redirect_from:
 * Jury members: <a href="https://sites.google.com/site/quentinmaxdavid/" target="_blank" rel="noopener">Quentin David</a>, <a href="https://www.leo-univ-orleans.fr/annuaire-membres/44/" target="_blank" rel="noopener">Camélia Turcu</a>, <a href="https://sites.google.com/site/laurentweillstrasbourg/" target="_blank" rel="noopener">Laurent Weill</a>, <a href="https://sites.google.com/site/lisachauvetdial/" target="_blank" rel="noopener">Lisa Chauvet</a> and <a href="https://www.rug.nl/staff/s.brakman/" target="_blank" rel="noopener">Steven Brakman</a>
 
 **10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
-* *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
+* *<a href="https://www.wu.ac.at/" target="_blank" rel="noopener">Vienna University of Economics and Business (Wirtschaftsuniversität Wien)</a>* 
 * Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
 * Supervisor: <a href="https://www.wu.ac.at/en/economics/people/luptacik-m" target="_blank" rel="noopener"> Mikuláš Luptáčik </a>
 
 
 
 **10/2009-09/2013: Bachelor of Science in Economics**
-* *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
+* *<a href="https://www.wu.ac.at/" target="_blank" rel="noopener">Vienna University of Economics and Business (Wirtschaftsuniversität Wien)</a>*
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
 * Supervisor: Sascha Sardadvar
 
