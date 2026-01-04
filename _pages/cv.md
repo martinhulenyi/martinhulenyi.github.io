@@ -17,7 +17,7 @@ redirect_from:
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies,Politecnico Milano*
 * Topic: The evolution of e-commerce in Italy
-* Supervisors: Ilaria Mariotti and Federica Maria Rossi
+* Supervisors: Ilaria Mariotti and Federica Rossi
 * Collaborators: Tommaso Cigognetti and Dimitris Manoukas
 * Contract valid until June 2026
 
@@ -75,18 +75,18 @@ redirect_from:
 * 07/2018: ERSA Summer School: Regional Policy - Evaluation Theory and Practice (Ekonomická Univerzita in Bratislava, Slovakia)
 * 07/2017: ERSA Summer School GIS and Regional Science -Theory and Applications (University of the Aegean in Mytilene, Greece)
 * 11/2016: Erasmus for Public Administration (DG REGIO in Brussels, Belgium)
-* 08/2016 Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
-* 09/2011 International Marketing (International Summer University South Eastern Europe in Budva, Montenegro)
+* 08/2016: Treatment Effects and the Econometrics of Program Evaluation (CEMFI in Madrid, Spain)
+* 09/2011: International Marketing (International Summer University South Eastern Europe in Budva, Montenegro)
 
 ## **Honors and Awards**
 
-10/2016 - 3rd place NBS Governor’s Award for an outstanding dissertation or diploma thesis in the area monetary economics, macroeconomics or financial economics for the master thesis “Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis”
+* 10/2016: 3rd place NBS Governor’s Award for an outstanding dissertation or diploma thesis in the area monetary economics, macroeconomics or financial economics for the master thesis “Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis”
 
 
 ## **Skills**
 
-* **Mathematical and statistical software:** R (proficient user)STATA (proficient user), Matlab (independent user) and  QGIS (independent user).
-* **Document creation:** LATEX(proficient user), MS Office (proficient user) and  Markdown (independent user)
+* **Mathematical and statistical software:** R (proficient user), STATA (proficient user), Matlab (independent user) and  QGIS (independent user)
+* **Document creation:** LATEX (proficient user), MS Office (proficient user) and  Markdown (independent user)
 * **Languages:** Slovak (Native), English (C2), German (C1), French (B1+)
 
 
@@ -108,7 +108,7 @@ redirect_from:
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/7814_report-on-productivity-and-competitiveness-of-the-slovak-republic-npb-isa-final2.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2020). Report on Productivity and Competitiveness of the Slovak Republic 2019.</a>
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/7382.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Lešková, A., & Zlaczká, V. (2018). Mind the Gap: Macroeconomic Analysis of the Investment gap in Slovak regions. </a>
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6842.pdf" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., Pastor, D., & Zlaczká, V. (2017). Dopad brexitu na politiku súdržnosti. </a>
-* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6840.pdf"  target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Rimegová, K. (2017). Hospodárske dosledky TTIP: Prehl'ad literatúry a závery pre Slovensko. </a>
+* <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6840.pdf"  target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Rimegová, K. (2017). Hospodárske dosledky TTIP: Prehľad literatúry a závery pre Slovensko. </a>
 * <a href = "https://isa.gov.sk/wp-content/uploads/2023/08/6839.pdf" target="_blank" rel="noopener">Fidrmuc, J., Hulényi, M., & Rimegová, K. (2017). Economic Consequences of TTIP: A Survey of Literature and Implications for Slovakia. </a>
 
 
