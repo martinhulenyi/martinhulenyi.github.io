@@ -15,7 +15,7 @@ redirect_from:
 
 ## **Current Position**
 **09/2024- Research Fellow** 
-* *Department of Architecture and Urban Studies,Politecnico Milano*
+* *Department of Architecture and Urban Studies, Politecnico Milano*
 * Topic: The evolution of e-commerce in Italy
 * Supervisors: Ilaria Mariotti and Federica Rossi
 * Collaborators: Tommaso Cigognetti and Dimitris Manoukas
@@ -31,12 +31,12 @@ redirect_from:
 * Jury members: Quentin David, Camelia Turcu, Laurent Weill, Lisa Chauvet and Steven Brakman
 
 **10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
-* Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
+* *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
 * Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
 * Supervisor: Mikuláš Luptáčik
 
 **10/2009-09/2013: Bachelor of Science in Economics**
-* Vienna University of Economics and Business (Wirtschaftsuniversität Wien)
+* *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
 * Supervisor: Sascha Sardadvar
 
