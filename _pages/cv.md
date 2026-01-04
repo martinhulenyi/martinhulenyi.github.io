@@ -24,7 +24,7 @@ redirect_from:
 ## **Education**
 **10/2021- 12/2025: PhD in Economics**
 * *<a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">LEM CNRS UMR 9221, Université de Lille</a>*  
-* Topic: Making Regions Great Again: Winning Big with European Integration 
+* Thesis title: Making Regions Great Again: Winning Big with European Integration 
 * Job market paper:  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements
 * Supervisors: <a href="http://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>
 * Defense date: 04.12.2025
