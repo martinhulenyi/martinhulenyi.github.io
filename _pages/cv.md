@@ -99,8 +99,6 @@ redirect_from:
 * <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804. </a>
 
 
-### **Working papers**
-
 ### **Other publications** 
 * <a href = "https://isa.gov.sk/wp-content/uploads/2024/10/dialnice.pdf"> Fidrmuc, J., Gardoňová, K., Hulényi, M., & Zavarská, Z. (2023). A highway is not a panacea: The impact of a new highway on the local labour market in Slovakia. </a>
 * <a href = "https://www.nbs.sk/_img/documents/_publik_nbs_fsr/biatec/rok2016/06-2016/biatec_6_16_05hulenyi.pdf"> Hulényi, M. Economic Integration of the Visegrád Countries into the European Union. </a>
