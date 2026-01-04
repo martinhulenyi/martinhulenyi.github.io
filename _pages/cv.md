@@ -15,7 +15,7 @@ redirect_from:
 
 ## **Current Position**
 **09/2024- Research Fellow** 
-* *Department of Architecture and Urban Studies, Politecnico Milano*
+* *Department of Architecture and Urban Studies, Politecnico di Milano*
 * Topic: The evolution of e-commerce in Italy
 * Supervisors: Ilaria Mariotti and Federica Rossi
 * Collaborators: Tommaso Cigognetti and Dimitris Manoukas
