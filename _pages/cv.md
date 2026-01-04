@@ -17,8 +17,8 @@ redirect_from:
 **09/2024- Research Fellow** 
 * *Department of Architecture and Urban Studies, Politecnico di Milano*
 * Topic: The evolution of e-commerce in Italy
-* Supervisors: Ilaria Mariotti and Federica Rossi
-* Collaborators: Tommaso Cigognetti and Dimitris Manoukas
+* Supervisors: <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a> and Federica Rossi
+* Collaborators: <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a> and Dimitris Manoukas
 * Contract valid until June 2026
 
 ## **Education**
@@ -47,13 +47,13 @@ redirect_from:
 **02/2024-04/2024 - Teaching Assistant**
 * *Tutorials in introduction to macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)*
 * First year MIASH Bachelor Program of Université de Lille
-* Responsible professor: Quentin David
+* Supervising professor: Quentin David
 
 
 **02/2023-04/2023 - Teaching Assistant**
 * *Tutorials in introduction to macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)*
 * First year MIASH Bachelor Program of Université de Lille
-* Responsible professor: Quentin David
+* Supervising professor: Quentin David
 
 ## **Work experience**
 
