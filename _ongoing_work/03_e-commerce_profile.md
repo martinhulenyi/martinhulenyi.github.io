@@ -20,7 +20,9 @@ The rise of digitalisation is closely linked to the expansion of B2C e-commerce,
 - Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017).
 
 ## Research question
-- 
+- What are the socio-economic determinants of the propensity to shop online?
+- How was the impact of these characteristics influenced by COVID-19?
+- What are the socio-economic determinants of the amount spent on online shopping?
 
 
 ## Contribution
