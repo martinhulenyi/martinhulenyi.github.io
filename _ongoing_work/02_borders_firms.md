@@ -34,12 +34,12 @@ Borders can act as barriers to regional development, limiting the market potenti
 - Comparison of firm productivity near borders (0–25 km) and farther away (50–100 km) across borders between EU15 and new member states (differentiating both sided of the border), borders between two new member states, and external borders of the EU over the period 1998-2021.
 - **Dependent variable**: profit (EBITDA) per employee (level and growth).
 - **Covariates**: firm level (age, sector group and size category) and location level (density and foreign market potential in 1995 and border elevation).
-- **Method**: OLS
+- **Method**: OLS.
 
 ## Results
 - Lower growth of productivity among firms located in new member states near EU15 borders.
 - Stark productivity differences in new member states across agriculture and non-agriculture between the borders with EU15 and the EU’s external border.
-- In new member states, irrespective of the border, level of productivity declines with firm size
+- In new member states, irrespective of the border, level of productivity declines with firm size.
 
 ## References
 
