@@ -18,8 +18,8 @@ We contribute to the analysis of the impact of European Union funds on European 
 
 
 ## Motivation 
-- European Structural and Investment Funds (EU Funds) are the primary tool of the EU to improve the regional inequalities within the EU, as not all regions benefit equally from EU integration
-- Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017)
+- European Structural and Investment Funds (EU Funds) are the primary tool of the EU to improve the regional inequalities within the EU, as not all regions benefit equally from EU integration.
+- Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017).
 
 ## Research question
 - What is the impact of EU Funds on regional growth?
@@ -27,20 +27,20 @@ We contribute to the analysis of the impact of European Union funds on European 
 
 ## Contribution
 - Reliance on an original instrumental variable (presence of environmentally protected Natura 2000 sites) as a solution to a likely presence of endogeneity.
-- Estimation of the spillover effects of EU Funds over a longer period and in an enlarged EU
+- Estimation of the spillover effects of EU Funds over a longer period and in an enlarged EU.
 
 ## Empirical strategy
 - Application of the Solow-Swan growth model (Mankiw et al., 1992, Ertur and Koch, 2007) for 272 NUTS2 regions from 1997 to 2014.
-- **Dependent variable**: regional GDP per capita growth rates  
+- **Dependent variable**: Regional GDP per capita growth rates.  
 - **Variable of interest**: EU Funds to regional GDP as the variable of interest (instrumented by the ratio of area of Natura 2000 sites to the area of a NUTS2 region).
-- **Control variables**: lagged level of regional GDP per capita,  population growth rate, ratio gross fixed capital formation to regional GDP, country level composite indicator of the world governance indicators  
-- **Method**: OLS, 2SLS, SDM
+- **Control variables**: lagged level of regional GDP per capita,  population growth rate, ratio gross fixed capital formation to regional GDP, country level composite indicator of the world governance indicators.  
+- **Method**: OLS, 2SLS, SDM.
 
 ## Results
-- positive impact of EU Funds on regional growth rates, with a degree of heterogeneity in the results.
-- when endogeneity is accounted for, the positive impact increases (downward bias of the initial OLS results)
-- positive spillover effects of EU Funds on nearby regions, although these effects are less robust.
-- negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections
+- Positive impact of EU Funds on regional growth rates, with a degree of heterogeneity in the results.
+- When endogeneity is accounted for, the positive impact increases (downward bias of the initial OLS results).
+- Positive spillover effects of EU Funds on nearby regions, although these effects are less robust.
+- Negative correlation between the EU Funds and the votes for the Conservative party in the 2017 elections.
 
 
 ## References
