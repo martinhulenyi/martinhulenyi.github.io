@@ -40,7 +40,7 @@ redirect_from:
 **10/2009-09/2013: Bachelor of Science in Economics**
 * *Vienna University of Economics and Business (Wirtschaftsuniversität Wien)*
 * Bachelor thesis: The Interregional Economic Development in the Slovak Republic
-* Supervisor: Sascha Sardadvar-
+* Supervisor: Sascha Sardadvar
 
 
 
