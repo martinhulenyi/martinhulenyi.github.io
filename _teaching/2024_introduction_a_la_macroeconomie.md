@@ -1,7 +1,7 @@
 ---
 title: "Tutorials in Introduction to Macroeconomics (Travaux Dirigés Introduction à la Macroéconomie)"
 collection: teaching
-type: "Turorial"
+type: "Tutorials"
 permalink: /teaching/macro
 venue: "First year MIASH Bachelor Program of Université de Lille"
 date: 2024-03-01
