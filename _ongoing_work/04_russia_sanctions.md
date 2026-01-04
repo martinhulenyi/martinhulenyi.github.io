@@ -30,9 +30,9 @@ This study examines the full-scale invasion of Ukraine in February 2022 as a nat
 ## Empirical strategy
 - Comparison of economic development of a city before and after invasion. 
 - **Dependent variable**: Year-on-year growth of nighttime lights for a Russian city at a monthly basis.  
-- **Variable of interest**: Start of the invasion.
+- **Variable of interest**: start of the full-scale invasion.
 - **Control variables**: trend and month and city-level fixed effects.  
-- **Method**: Regression discontinuity design in time.
+- **Method**: regression discontinuity design in time.
 
 ## Results
 - Significant decline in economic activity, measured by night-time lights, in Russian cities, with a degree of heteroegenity (decline near borders with the EU, Ukraine and Belarus, while economic growth in the proximity of the borders with China and Georgia), indicating a possible impact of trade diversion after the imposition of sanctions on Russia.
