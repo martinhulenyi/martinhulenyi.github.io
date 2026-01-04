@@ -122,4 +122,4 @@ redirect_from:
 * **2019:** Czech Economic Society and Slovak Economic Association Meeting in Brno
 * **2018:** 11th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Slovak Economic Association Meeting in Bratislava
 * **2017:** European Public Choice Society Annual Meeting in Budapest, 10th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Slovak Economic Association Meeting in Košice
-* **2016:** European Public Choice Society Annual Meeting in Feiburg am Breisgau, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association in Bratislava, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference in Bratislava
+* **2016:** European Public Choice Society Annual Meeting in Freiburg am Breisgau, Joint Annual Meeting of the Slovak Economic Association and the Austrian Economic Association in Bratislava, Warsaw International Economic Meeting, 25 years of transforming centrally planned economies: experiences and perspectives conference in Bratislava
