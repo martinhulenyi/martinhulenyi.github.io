@@ -21,6 +21,8 @@ The rise of digitalisation is closely linked to the expansion of B2C e-commerce,
 
 ## Research question
 - 
+
+
 ## Contribution
 - Use of official survey (ISTAT Aspects of Everyday Life) to evaluate the socioeconomic determinants of propensity to buy online, and how it changed during COVID-19 pandemic. We also use the survey to evaluate the online spending.
 
