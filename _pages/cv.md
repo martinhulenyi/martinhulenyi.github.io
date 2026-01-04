@@ -30,7 +30,7 @@ redirect_from:
 * Defense date: 04.12.2025
 * Jury members: <a href="https://sites.google.com/site/quentinmaxdavid/" target="_blank" rel="noopener">Quentin David</a>, <a href="https://www.leo-univ-orleans.fr/annuaire-membres/44/" target="_blank" rel="noopener">Camélia Turcu</a>, <a href="https://sites.google.com/site/laurentweillstrasbourg/" target="_blank" rel="noopener">Laurent Weill</a>, <a href="https://sites.google.com/site/lisachauvetdial/" target="_blank" rel="noopener">Lisa Chauvet</a> and <a href="https://www.rug.nl/staff/s.brakman/" target="_blank" rel="noopener">Steven Brakman</a>
 
-**10/2013-09/2015: Master of Science in Economics with major in mathematical economics**
+**10/2013-08/2015: Master of Science in Economics with major in mathematical economics**
 * *<a href="https://www.wu.ac.at/" target="_blank" rel="noopener">Vienna University of Economics and Business (Wirtschaftsuniversität Wien)</a>* 
 * Master thesis: Economic Integration of the Visegrád Countries into the European Union - An Input-Output Analysis
 * Supervisor: <a href="https://www.wu.ac.at/en/economics/people/luptacik-m" target="_blank" rel="noopener"> Mikuláš Luptáčik </a>
