@@ -37,7 +37,7 @@ The rise of digitalisation is closely linked to the expansion of B2C e-commerce,
 - **Method**: Logit and ordinal logit.
 
 ## Result
-- Online shopping propensity is higher among younger, wealthier, male individuals and those closer to amenities ; during the pandemic, age and income disparities widened, gender gaps narrowed. 
+- Online shopping propensity is higher among younger, wealthier, male individuals and those closer to amenities; during the pandemic, age and income disparities widened, gender gaps narrowed. 
 - Higher spending was concentrated among men, wealthier, and middle-aged (35–54) consumers.
 ## Recommended citation
 {{ page.citation }}
