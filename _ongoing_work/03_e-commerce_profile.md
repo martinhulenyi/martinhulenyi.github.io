@@ -34,7 +34,7 @@ The rise of digitalisation is closely linked to the expansion of B2C e-commerce,
 - **Dependent variable**: if a person bought a product or a service online in the past three months and category of spending on e-commerce.  
 - **Variables of interest**: socio-economic characteristics of an individual (gender, age, household resources, loseness of emnities).
 - **Control variables**: regional fixed effects and municipality size category. 
-- **Method**: Logit and ordinal logit.
+- **Method**: logit and ordinal logit.
 
 ## Result
 - Online shopping propensity is higher among younger, wealthier, male individuals and those closer to amenities; during the pandemic, age and income disparities widened, gender gaps narrowed. 
