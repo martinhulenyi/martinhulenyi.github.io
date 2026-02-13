@@ -12,7 +12,7 @@ Until June 2026, I am a research associate at the <a href="https://www.dastu.pol
 
 Before starting my PhD, I was a policy analyst at the <a href="https://isa.gov.sk/" target="_blank" rel="noopener">Institute for Strategy and Analysis at the Government Office of the Slovak Republic</a>. Among other things, I was part of the team working on the Reports on Productivity and Competitiveness of the Slovak Republic for the years 2019 and 2020. 
 
-My research interests comprise regional and urban economics, policy evaluation, causal inference, political economy, digital economy, cliometrics,  and applied econometrics. 
+My research interests comprise regional and urban economics, policy evaluation, causal inference, political economy, digital economy, cliometrics  and applied econometrics. 
 
 
 
