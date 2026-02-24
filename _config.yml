@@ -367,5 +367,5 @@ compress_html:
   ignore:
     envs: development
 
-plugins:
-  - jekyll-sitemap
+# plugins:
+#   - jekyll-sitemap
