@@ -14,7 +14,7 @@ redirect_from:
 </a>
 
 ## **Current Position**
-**09/2024- Research Fellow** 
+**05/2024- Research Fellow** 
 * *<a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies, Politecnico di Milano</a>*
 * Topic: The evolution of e-commerce in Italy
 * Supervisors: <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a> and <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>
