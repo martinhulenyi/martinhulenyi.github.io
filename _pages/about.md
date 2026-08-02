@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a postdoctoral researcher at Lisbon School of Economics and Management working on the causal links between changes in relative transport accessibility and the emergence of sociopolitical discontent. 
+I am currently a postdoctoral researcher at <a href="https://www.iseg.ulisboa.pt/" target="_blank" rel="noopener">Lisbon School of Economics and Management</a> working on the causal links between changes in relative transport accessibility and the emergence of sociopolitical discontent. 
 
 I completed my PhD at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM, CNRS UMR 9221), under the supervision of <a href="http://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about the regional aspects of  European economic integration, with a focus on EU Structural and Investment Funds and EU border regions. My job market paper, <a href="https://martinhulenyi.github.io/files/borders_enlargement_jmp.pdf" target="_blank" rel="noopener">  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements </a>, assesses the impact of integration on the border areas of the Eastern EU enlargements.
 
