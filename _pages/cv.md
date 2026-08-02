@@ -16,7 +16,7 @@ redirect_from:
 ## **Academic Positions**
 **05/2026 -  Postdoctoral researcher**
 * *<a href="https://www.iseg.ulisboa.pt/" target="_blank" rel="noopener">ISEG, Universidade de Lisboa</a>*
-* Topic: Transisolation - causal links between changes in relative transport accessibility and the emergence of sociopolitical discontent
+* Topic: Links between changes in relative transport accessibility and the emergence of sociopolitical discontent
 * Principal investigator: <a href="https://sites.google.com/view/brunorocha" target="_blank" rel="noopener"> Bruno Rocha </a> 
 * Collaborators: <a href="https://scholar.google.at/citations?user=zd_SXZMAAAAJ&hl=pt-PT&oi=ao" target="_blank" rel="noopener"> Patrícia Melo </a>,  <a href="https://scholar.google.at/citations?user=xgwKEAoAAAAJ&hl=pt-PT&oi=sra" target="_blank" rel="noopener"> João Abreu e Silva</a>, <a href="https://scholar.google.at/citations?user=xgwKEAoAAAAJ&hl=pt-PT&oi=sra" target="_blank" rel="noopener"> João Abreu e Silva</a>, Maurício Carvalho and Nuno Afonso.
 
@@ -28,12 +28,6 @@ redirect_from:
 * Collaborators: <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a> and Dimitris Manoukas
 
 
-**09/2024-06/2026: Research Fellow** 
-* *<a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies, Politecnico di Milano</a>*
-* Topic: The evolution of e-commerce in Italy
-* Supervisors: <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a> and <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>
-* Collaborators: <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a> and Dimitris Manoukas
-* Contract valid until June 2026
 
 ## **Education**
 **10/2021- 12/2025: PhD in Economics**
@@ -127,6 +121,7 @@ redirect_from:
 
 
 ## **Presentations**
+* **2026** 10th European Workshop on Political Macroeconomics at Ghent University
 * **2025:** RSA annual meeting in Porto,  Economic Research Seminar at Economics University in Bratislava
 * **2024:** European Public Choice Society Annual Meeting in Vienna, IOS Regensburg Summer Academy in Tutzing, Slovak Economic Association Meeting in Bratislava, 15th Geoffrey J.D. Hewings Regional Economics Workshop at WIFO in Vienna, Doctoral Seminar at LEM in Lille, Spatial Warsaw Seminar at the University of Warsaw, Warsaw Economic Seminar at University of Warsaw
 * **2023:** WIIW Research Seminar in Vienna, Seminar at LEM in Lille, European Regional Science Association Congress in Alicante, Slovak Economic Association Meeting in Banská Bystrica
