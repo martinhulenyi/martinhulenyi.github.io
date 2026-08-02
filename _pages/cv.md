@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://martinhulenyi.github.io/files/cv.pdf" target="_blank" rel="noopener">
+<a href="https://martinhulenyi.eu/files/cv.pdf" target="_blank" rel="noopener">
   View CV as PDF
 </a>
 
 ## **Academic Positions**
 **05/2026 -  Postdoctoral researcher**
-* *<a href="https://www.iseg.ulisboa.pt/" target="_blank" rel="noopener">ISEG, Universidade de Lisboa</a>*
+* *<a href="https://www.iseg.ulisboa.pt/" target="_blank" rel="noopener">Lisbon school of economics and management (ISEG), Universidade de Lisboa</a>*
 * Topic: Links between changes in relative transport accessibility and the emergence of sociopolitical discontent
 * Principal investigator: <a href="https://sites.google.com/view/brunorocha" target="_blank" rel="noopener"> Bruno Rocha </a> 
 * Collaborators: <a href="https://scholar.google.at/citations?user=zd_SXZMAAAAJ&hl=pt-PT&oi=ao" target="_blank" rel="noopener"> Patrícia Melo </a>,  <a href="https://scholar.google.at/citations?user=xgwKEAoAAAAJ&hl=pt-PT&oi=sra" target="_blank" rel="noopener"> João Abreu e Silva</a>, <a href="https://scholar.google.at/citations?user=xgwKEAoAAAAJ&hl=pt-PT&oi=sra" target="_blank" rel="noopener"> João Abreu e Silva</a>, Maurício Carvalho and Nuno Afonso.
