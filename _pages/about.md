@@ -6,13 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently on the job market, with my job market paper <a href="https://martinhulenyi.github.io/files/borders_enlargement_jmp.pdf" target="_blank" rel="noopener">  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements </a>. I completed my PhD at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM, CNRS UMR 9221), under the supervision of <a href="http://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about the regional aspects of  European economic integration, with a focus on EU Structural and Investment Funds and EU border regions.
 
-Until June 2026, I am a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico di Milano, where I  work on a project about the spatial and territorial effects of e-commerce with <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a>, <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>, <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a>, and Dimitris Manoukas.
+
+I am currently a postdoctoral researcher at Lisbon School of Economics and Management working on the causal links between changes in relative transport accessibility and the emergence of sociopolitical discontent. 
+
+I completed my PhD at the Université de Lille in the <a href="https://lem.univ-lille.fr/" target="_blank" rel="noopener">Lille Economics and Management</a> (LEM, CNRS UMR 9221), under the supervision of <a href="http://fidrmuc.net" target="_blank" rel="noopener">Jan Fidrmuc</a> and <a href="https://sites.google.com/view/nicolasdebarsy/" target="_blank" rel="noopener">Nicolas Debarsy</a>. My thesis is about the regional aspects of  European economic integration, with a focus on EU Structural and Investment Funds and EU border regions. My job market paper, <a href="https://martinhulenyi.github.io/files/borders_enlargement_jmp.pdf" target="_blank" rel="noopener">  Out of the Dark into the Light? Border Urban Municipalities and Eastern EU Enlargements </a>, assesses the impact of integration on the border areas of the Eastern EU enlargements.
+
+Until June 2026, I was a research associate at the <a href="https://www.dastu.polimi.it/en" target="_blank" rel="noopener">Department of Architecture and Urban Studies</a> (DAStU) at Politecnico di Milano, where I  worked on a project about the spatial and territorial effects of e-commerce with <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a>, <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>, <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a>, and Dimitris Manoukas.
 
 Before starting my PhD, I was a policy analyst at the <a href="https://isa.gov.sk/" target="_blank" rel="noopener">Institute for Strategy and Analysis at the Government Office of the Slovak Republic</a>. Among other things, I was part of the team working on the Reports on Productivity and Competitiveness of the Slovak Republic for the years 2019 and 2020. 
 
-My research interests comprise regional and urban economics, policy evaluation, causal inference, political economy, digital economy, cliometrics  and applied econometrics. 
+My research interests comprise regional and urban economics, policy evaluation, causal inference, political economy, digital economy, economic history  and applied econometrics. 
 
 
 
