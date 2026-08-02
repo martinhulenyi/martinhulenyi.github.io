@@ -18,9 +18,8 @@ We study Russia's February 2022 full-scale invasion of Ukraine as a natural expe
 
 
 ## Motivation 
-
 - The  sanctions that Russia faces since the 2024 full-scale invasion have had an impact on Russian economy, however the intra-regional implications are understudied.
--
+
 
 ## Research question
 - What is the impact of the full-scale invasion of Ukraine on the economic development of cities and regions?
