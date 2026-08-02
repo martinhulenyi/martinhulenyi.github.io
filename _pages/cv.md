@@ -78,7 +78,7 @@ redirect_from:
 * 11/2022: Visiting researcher at the Provozne ekonomicka fakulta (Mendelova univerzita); Sponsor: <a href="https://www.kapounek.cz/" target="_blank" rel="noopener">Svatoplouk Kapounek</a>
 
 ## **Complementary Education**
-* 07/2026: Economic History Summer School (ISEG, Lisabon)
+* 07/2026: Economic History Summer School (ISEG in Lisabon, Portugal)
 * 08/2022: Causal Inference Mixtape Workshop (Online)
 * 09/2020: Panel Data Econometrics (CEMFI in Madrid, Spain)
 * 06/2019: Microeconometrics and Policy Evaluation Summer School (Paris School of Economics in Paris, France)
