@@ -1,10 +1,10 @@
 ---
 title: "Russia’s Wartime Economy : Measuring Regional Inequalities from Outer Space"
-collection: ongoing_work
+collection: publications
 category: manuscripts
-#date: 2023-07-07
-#venue: "Regional Studies 58(3)"
-paperurl: "https://martinhulenyi.github.io/files/costs_of_russian_invasion.pdf"
+date: 2026-08-27
+venue: "Regional Studies 66"
+paperurl: "https://onlinelibrary.wiley.com/doi/10.1111/jors.70084"
 permalink: /publication/costs_of_invasion/
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/barbakadze_et_al_2026.bib"
 
