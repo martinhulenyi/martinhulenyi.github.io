@@ -3,7 +3,7 @@ title: "Russia’s Wartime Economy : Measuring Regional Inequalities from Outer 
 collection: publications
 category: manuscripts
 date: 2026-08-27
-venue: "Regional Studies 66"
+venue: "Regional Studies 66(5)"
 paperurl: "https://onlinelibrary.wiley.com/doi/10.1111/jors.70084"
 permalink: /publication/costs_of_invasion/
 bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/barbakadze_et_al_2026.bib"
