@@ -102,6 +102,7 @@ redirect_from:
 
 ## **Publications**
 ### **Peer-Reviewed Journals**
+* <a href = "https://onlinelibrary.wiley.com/doi/10.1111/jors.70084" target="_blank" rel="noopener"> Barbakadze,I., Fidrmuc, J., Hulényi, M., & Kapanadze, K. (2026). Russia's Wartime Economy: Measuring Regional Inequalities From Outer Space. Regional Studies, 66,  1677–1698. </a>
 * <a href = "https://www.tandfonline.com/doi/full/10.1080/00343404.2023.2217214" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Zajkowska, O. (2024). The Long and Winding Road to find the Impact of EU Funds on Regional Growth: IV and Spatial Analyses. Regional Studies, 58(3), 583–600. </a>
 * <a href = "https://openjournals.wu.ac.at/ojs/index.php/region/article/view/344" target="_blank" rel="noopener"> Fidrmuc, J., Gardoňová, K., Hulényi, M., Sekelský, L., & Zlaczká, V. (2022). EU Funds as a Catalyst of Change for the Slovak healthcare system?. REGION, 9(1), 29–49. </a>
 * <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0176268018304555" target="_blank" rel="noopener"> Fidrmuc, J., Hulényi, M., & Tunalı, Ç. B. (2019). Can money buy EU love?. European Journal of Political Economy, 60, 101804. </a>
