@@ -19,8 +19,9 @@ Does spatial isolation contribute to the rise of Chega, Portugal’s populist fa
 parliamentary election by 2.7-3.4 percentage points. The effect grows as the party consolidates, extends to presidential elections, is weaker for European elections, and null for municipal elections. It operates through comparisons with the rest of the country, not with neighbouring municipalities.
 
 ## Motivation 
-- Recent emergence of righ-wing populist party in Portugal, Chega.
-- Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017).
+- Role of asymmetries in accessibility to economic markets as a driver of discontent remains largely understudied.
+- Recent emergence of righ-wing populist party in Portugal, Chega, despite Portugal's 
+
 
 ## Research question
 - Do persistent differences in access to markets of by road impact the support for Chega (the far right party in Portugal) on municipal level?
