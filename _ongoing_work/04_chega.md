@@ -9,21 +9,21 @@ permalink: /publication/e-commerce_profile/
 #bibtexurl: "https://raw.githubusercontent.com/martinhulenyi/martinhulenyi.github.io/master/files/fidrmuc_et_al_2023.bib"
 
 # Shows on the publications OVERVIEW only:
-excerpt: "The rise of digitalisation is closely linked to the expansion of B2C e-commerce, a trend significantly accelerated by the restrictions imposed during the COVID-19 pandemic. Indeed, movement limitations prompted a substantial shift toward online shopping, compelling quick adaptions from consumers and producers. This transformation has altered regions' and cities' spatial and territorial dynamics, highlighting the need for effective logistics optimisation. To address this, it is crucial to understand the profiles of e-commerce customers. The paper aims to analyse the socio-demographic and economic factors influencing the propensity to shop online in Italy before and during the COVID-19 pandemic. To pursue this aim, data from the ISTAT Aspects of Everyday Life household survey are analyzed through a logit model. Results provide new insights into how the pandemic has reshaped the characteristics of online consumers, offering valuable information and recommendations for policymakers and stakeholders in the e-commerce sector."
+excerpt: "Does spatial isolation contribute to the rise of Chega, Portugal’s populist far-right party? We use road-based market potential as an inverse measure of isolation for mainland municipalities. To address endogeneity, we instrument 2021 market potential with its 1971 and 1864 counterparts. A one standard deviation decrease in the log of market potential raises Chega’s vote share in the 2025
+parliamentary election by 2.7-3.4 percentage points. The effect grows as the party consolidates, extends to presidential elections, is weaker for European elections, and null for municipal elections. It operates through comparisons with the rest of the country, not with neighbouring municipalities."
 ---
 Co-authored with <a href="https://scholar.google.com/citations?user=Nnirhs0AAAAJ&hl=it" target="_blank" rel="noopener"> Tommaso Cigognetti </a>, <a href="https://scholar.google.com/citations?user=gFVR6jAAAAAJ&hl=it&oi=ao" target="_blank" rel="noopener"> Ilaria Mariotti </a>   and <a href="https://scholar.google.com/citations?user=V7OKfOUAAAAJ&hl=it&oi=sra" target="_blank" rel="noopener"> Federica Rossi </a>.
 
 ## Abstract
-The rise of digitalisation is closely linked to the expansion of B2C e-commerce, a trend significantly accelerated by the restrictions imposed during the COVID-19 pandemic. Indeed, movement limitations prompted a substantial shift toward online shopping, compelling quick adaptions from consumers and producers. This transformation has altered regions' and cities' spatial and territorial dynamics, highlighting the need for effective logistics optimisation. To address this, it is crucial to understand the profiles of e-commerce customers. The paper aims to analyse the socio-demographic and economic factors influencing the propensity to shop online in Italy before and during the COVID-19 pandemic. To pursue this aim, data from the ISTAT Aspects of Everyday Life household survey are analyzed through a logit model. Results provide new insights into how the pandemic has reshaped the characteristics of online consumers, offering valuable information and recommendations for policymakers and stakeholders in the e-commerce sector.
+Does spatial isolation contribute to the rise of Chega, Portugal’s populist far-right party? We use road-based market potential as an inverse measure of isolation for mainland municipalities. To address endogeneity, we instrument 2021 market potential with its 1971 and 1864 counterparts. A one standard deviation decrease in the log of market potential raises Chega’s vote share in the 2025
+parliamentary election by 2.7-3.4 percentage points. The effect grows as the party consolidates, extends to presidential elections, is weaker for European elections, and null for municipal elections. It operates through comparisons with the rest of the country, not with neighbouring municipalities.
 
 ## Motivation 
-- COVID-19 pandemic resulted in an increase in B2C e-commerce.
+- Recent emergence of righ-wing populist party in Portugal, Chega.
 - Evidence on their effect on regional growth rates is mixed, possibly also due to overlooked endogeneity or spillover effects (Dall’erba and Fang, 2017).
 
 ## Research question
-- What are the socio-economic determinants of the propensity to shop online?
-- How was the impact of these characteristics influenced by COVID-19?
-- What are the socio-economic determinants of the amount spent on online shopping?
+- Do persistent differences in access to markets of by road impact the support for Chega (the far right party in Portugal) on municipal level?
 
 
 ## Contribution
