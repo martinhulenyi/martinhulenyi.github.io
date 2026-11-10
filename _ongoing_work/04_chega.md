@@ -44,7 +44,7 @@ parliamentary elections: a one standard deviation decrease in the log of market
 potential raises Chega’s vote share by 2.7–3.4 percentage points.
 - The effect is not statistically significant for 2019 parliamentary elections and grows with the emergence of Chega as a credible vehicle for discontent.
 - The pattern extends to presidential elections, but is weaker in elections to the
-European Parliament and absent in municipal elections.
+European Parliament and absent in municipal elections. 
 - The effect of relative MP is substantial on the non-local level, while not significant on the local level.
 ## Recommended citation
 {{ page.citation }}
