@@ -1,5 +1,5 @@
 ---
-title: "Who bought online during the COVID-19 pandemic? The Italian case study"
+title: "A world away: spatial isolation and the rise of the populist far right in Portugal"
 collection: ongoing_work
 category: manuscripts
 #date: 2023-07-07
