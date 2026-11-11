@@ -24,7 +24,7 @@ parliamentary election by 2.7-3.4 percentage points. The effect grows as the par
 
 
 ## Research question
-- Do persistent differences in access to markets by road impact the support for Chega (the far-right party in Portugal) at the municipal level?
+- Do differences in access to markets by road impact the support for Chega (the far-right party in Portugal) at the municipal level?
 
 
 ## Contribution
